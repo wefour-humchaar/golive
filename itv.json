@@ -320,11 +320,11 @@
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Eurosport",
+    "logo": "https://i.postimg.cc/7LsCZV5T/Eurosports.png",
+    "playurl": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8",
+    "group": "Sports",
+    "language": "English",
     "ua": ""
   },
   {

@@ -137,7 +137,7 @@
   },
   {
     "title": "DD News HD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/kgsfdRy2/DD-News.png",
     "playurl": "https://ytl.hmapps.workers.dev/@DDnews.m3u8",
     "group": "News",
     "language": "Hindi",

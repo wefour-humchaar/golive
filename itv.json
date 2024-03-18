@@ -40,6 +40,14 @@
     "ua": ""
   },
   {
+    "title": "Zee Bharat",
+    "logo": "https://i.ibb.co/HrghXNh/Zee-Bharat.png",
+    "playurl": "https://stlive.pages.dev/zee-bharat.m3u8",
+    "group": "News",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
     "title": "",
     "logo": "",
     "playurl": "",

@@ -632,10 +632,18 @@
     "ua": ""
   },
   {
-    "title": "Star Sports 1 Hindi (MM)",
-    "logo": "https://i.postimg.cc/pLHwPPW5/Star-Sports-1-Hindi.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/m/live.m3u8?id=d0058459",
-    "group": "Sports",
+    "title": "Star Plus (MM)",
+    "logo": "https://i.postimg.cc/Y9C33spS/Star-Plus.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/m/live.m3u8?id=63a61319",
+    "group": "Entertainment",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Star Utsav (MM)",
+    "logo": "https://i.postimg.cc/nr0M13hn/Star-Utsav.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/m/live.m3u8?id=7dcc7d09",
+    "group": "Entertainment",
     "language": "Hindi",
     "ua": ""
   },

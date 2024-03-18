@@ -424,19 +424,187 @@
     "ua": ""
   },
   {
-    "title": "Sky Sports Cricket",
-    "logo": "https://i.postimg.cc/rscTvfWr/Sky-Sports-Cricket.png",
-    "playurl": "https://reindeertech.heliohost.us/dd/live.m3u8?id=65",
+    "title": "Sony HD (SET HD)",
+    "logo": "https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png",
+    "playurl": "https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8",
+    "group": "Entertainment",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Sony SAB HD",
+    "logo": "https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png",
+    "playurl": "https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8",
+    "group": "Entertainment",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Sony Marathi",
+    "logo": "https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png",
+    "playurl": "https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8",
+    "group": "Entertainment",
+    "language": "Marathi",
+    "ua": ""
+  },
+  {
+    "title": "Sony Pal",
+    "logo": "https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png",
+    "playurl": "https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8",
+    "group": "Entertainment",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Sony Aath",
+    "logo": "https://i.postimg.cc/bY12WVTm/SONY-AATH.png",
+    "playurl": "https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8",
+    "group": "Entertainment",
+    "language": "Bengali",
+    "ua": ""
+  },
+  {
+    "title": "Sony Yay",
+    "logo": "https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png",
+    "playurl": "https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8",
+    "group": "Kids",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Sony MAX HD",
+    "logo": "https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png",
+    "playurl": "https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Sony MAX",
+    "logo": "https://i.postimg.cc/X7MmrgCs/SONY-MAX.png",
+    "playurl": "https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Sony WAH",
+    "logo": "https://i.postimg.cc/jq6Qh61g/SONY-WAH.png",
+    "playurl": "https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Sony MAX 2",
+    "logo": "https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png",
+    "playurl": "https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Sony PIX HD",
+    "logo": "https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png",
+    "playurl": "https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8",
+    "group": "Movies",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "Sony BBC Earth HD",
+    "logo": "https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png",
+    "playurl": "https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8",
+    "group": "Infotainment",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "Sony Sports Ten 1",
+    "logo": "https://i.postimg.cc/6QYLXBdk/SONY-SPORTS-TEN-1.png",
+    "playurl": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
     "group": "Sports",
     "language": "English",
     "ua": ""
   },
   {
-    "title": "Willow HD",
-    "logo": "https://i.postimg.cc/dVc2gdSK/Willow.png",
-    "playurl": "https://reindeertech.heliohost.us/dd/live.m3u8?id=346",
+    "title": "Sony Sports Ten 2",
+    "logo": "https://i.postimg.cc/FsbQV6bf/SONY-SPORTS-TEN-2.png",
+    "playurl": "https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8",
     "group": "Sports",
     "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "Sony Sports Ten 3",
+    "logo": "https://i.postimg.cc/nzLv0NQn/SONY-SPORTS-TEN-3.png",
+    "playurl": "https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8",
+    "group": "Sports",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Sony Sports Ten 4",
+    "logo": "https://i.postimg.cc/hPV2YzGv/SONY-SPORTS-TEN-4.png",
+    "playurl": "https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8",
+    "group": "Sports",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "Sony Sports Ten 5",
+    "logo": "https://i.postimg.cc/Vs72zb9N/SONY-SPORTS-TEN-5.png",
+    "playurl": "https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8",
+    "group": "Sports",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "Sony Sports Ten 1 HD",
+    "logo": "https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png",
+    "playurl": "https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8",
+    "group": "Sports",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "Sony Sports Ten 2 HD",
+    "logo": "https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png",
+    "playurl": "https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8",
+    "group": "Sports",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "Sony Sports Ten 3 HD",
+    "logo": "https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png",
+    "playurl": "https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8",
+    "group": "Sports",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Sony Sports Ten 4 HD",
+    "logo": "https://i.postimg.cc/x8Z3Zmkx/SONY-SPORTS-TEN-4-HD.png",
+    "playurl": "https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8",
+    "group": "Sports",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "Sony Sports Ten 5 HD",
+    "logo": "https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png",
+    "playurl": "https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8",
+    "group": "Sports",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "Sony KAL",
+    "logo": "https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png",
+    "playurl": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8",
+    "group": "Entertainment",
+    "language": "Hindi",
     "ua": ""
   },
   {

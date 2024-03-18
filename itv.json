@@ -1,5 +1,13 @@
 [
   {
+    "title": "Aaj Tak",
+    "logo": "https://i.postimg.cc/pdtJwC1C/Aaj-Tak.png",
+    "playurl": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/playlist.m3u8",
+    "group": "News",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
     "title": "Aaj Tak HD",
     "logo": "https://i.ibb.co/vZL1FLR/Aaj-Tak-HD.png",
     "playurl": "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/playlist.m3u8",
@@ -104,11 +112,11 @@
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "News 18 India",
+    "logo": "https://i.postimg.cc/TwwHpQqx/News-18-India.png",
+    "playurl": "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8",
+    "group": "News",
+    "language": "Hindi",
     "ua": ""
   },
   {

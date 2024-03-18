@@ -16,6 +16,22 @@
     "ua": ""
   },
   {
+    "title": "News Nation",
+    "logo": "https://i.postimg.cc/c19BKRnZ/News-Nation.png",
+    "playurl": "https://liveb.streamready.in/newsnation/smil:common.smil/index.m3u8",
+    "group": "News",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "News State UP Uttarakhand",
+    "logo": "https://i.postimg.cc/3wzPHkXQ/News-State-UP-UK.jpg",
+    "playurl": "https://liveb.streamready.in/newsstateupuk/smil:common.smil/playlist.m3u8",
+    "group": "News",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
     "title": "India News",
     "logo": "https://i.ibb.co/MDnfPmx/India-News.png",
     "playurl": "https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8",
@@ -139,6 +155,14 @@
     "title": "1st India News",
     "logo": "https://i.postimg.cc/mkKrC7tr/1st-India-News.png",
     "playurl": "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
+    "group": "News",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "DD News",
+    "logo": "https://i.postimg.cc/kgsfdRy2/DD-News.png",
+    "playurl": "https://liveb.streamready.in/ddnews/smil:common.smil/playlist.m3u8",
     "group": "News",
     "language": "Hindi",
     "ua": ""
@@ -328,11 +352,11 @@
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Mastiii",
+    "logo": "https://i.postimg.cc/NjJ9scCx/Mastiii.png",
+    "playurl": "https://liveb.streamready.in/masti/smil:common.smil/index.m3u8",
+    "group": "Music",
+    "language": "Hindi",
     "ua": ""
   },
   {

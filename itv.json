@@ -24,6 +24,14 @@
     "ua": ""
   },
   {
+    "title": "India TV News (Source 2)",
+    "logo": "https://i.ibb.co/51Hh0hF/India-TV.png",
+    "playurl": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
+    "group": "News",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
     "title": "ABP News",
     "logo": "https://i.ibb.co/98rxt3B/ABP-News.png",
     "playurl": "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8",

@@ -696,6 +696,334 @@
     "ua": ""
   },
   {
+    "title": "Colors HD",
+    "logo": "https://i.postimg.cc/KcL31ySD/Colors-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Colors_HD",
+    "group": "Entertainment",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Colors Cineplex HD",
+    "logo": "https://i.postimg.cc/vmz3F6XD/Colors-Cineplex-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Colors_Cineplex",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Comedy Central HD",
+    "logo": "https://i.postimg.cc/sft8J7LR/Comedy-Central-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Comedy_Central_HD",
+    "group": "Entertainment",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "MTV Beats HD",
+    "logo": "https://i.postimg.cc/x8rRLy1x/MTV-Beats-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=MTV_Beats_HD",
+    "group": "Music",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Nick HD +",
+    "logo": "https://i.postimg.cc/FHfYQtZS/Nick-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Nick_HD_Plus",
+    "group": "Kids",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "Sonic Nickelodeon",
+    "logo": "https://i.postimg.cc/cJzyyjFv/Sonic-Nickelodeon.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Sonic_Nickelodeon",
+    "group": "Kids",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Nick Jr.",
+    "logo": "https://i.postimg.cc/ZqfN1DW0/Nick-Jr.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Nick_Junior",
+    "group": "Kids",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "Colors Rishtey",
+    "logo": "https://i.postimg.cc/1X2f8JRX/Colors-Rishtey.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Colors_Rishtey",
+    "group": "Entertainment",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Colors Infinity HD",
+    "logo": "https://i.postimg.cc/JnbLNxQt/Colors-Infinity-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Colors_Infinity_HD",
+    "group": "Entertainment",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "Colors Cineplex Bollywood",
+    "logo": "https://i.postimg.cc/d0xrFmLB/Colors-Cineplex-Bollywood.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Colors_Cineplex_Bollywood",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Colors Cineplex Superhits",
+    "logo": "https://i.postimg.cc/7PzKVLv8/Colors-Cineplex-Superhits.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Rishtey_Cineplex",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "MTV HD +",
+    "logo": "https://i.postimg.cc/054snqcc/MTV-HD-Plus.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=MTV_HD_Plus",
+    "group": "Music",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "MTV HD +",
+    "logo": "https://i.postimg.cc/054snqcc/MTV-HD-Plus.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=MTV_HD_Plus",
+    "group": "Entertainment",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
     "title": "",
     "logo": "",
     "playurl": "",

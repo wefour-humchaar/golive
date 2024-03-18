@@ -48,6 +48,14 @@
     "ua": ""
   },
   {
+    "title": "ABP News (Distro)",
+    "logo": "https://i.ibb.co/98rxt3B/ABP-News.png",
+    "playurl": "https://dkshlpp7ugzua.cloudfront.net/hls/live/2042871-b/abpnews/master.m3u8",
+    "group": "News",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
     "title": "Zee News",
     "logo": "https://i.ibb.co/Wzk7TDB/Zee-News.png",
     "playurl": "https://stlive.pages.dev/zee-news.m3u8",

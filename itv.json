@@ -128,6 +128,14 @@
     "ua": ""
   },
   {
+    "title": "Republic Bharat (Source 2)",
+    "logo": "https://i.ibb.co/9WsdgrJ/Republic-Bharat.png",
+    "playurl": "https://ottrb7.republicworld.com/httppush/ottrb_republic_hindi/ottrb/master.m3u8",
+    "group": "News",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
     "title": "Good News Today",
     "logo": "https://i.postimg.cc/nLfg8b7k/Good-News-Today.png",
     "playurl": "https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8",
@@ -195,6 +203,14 @@
     "title": "Bharat Samachar",
     "logo": "https://i.postimg.cc/PrtqyhHQ/Bharat-Samachar.png",
     "playurl": "https://yupp.hmapps.workers.dev/bharat-samachar.m3u8",
+    "group": "News",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "IBC 24",
+    "logo": "https://i.postimg.cc/rFbb4dH0/IBC-24.png",
+    "playurl": "https://liveb.streamready.in/ibc24/smil:common.smil/playlist.m3u8",
     "group": "News",
     "language": "Hindi",
     "ua": ""
@@ -360,11 +376,11 @@
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "DD Sports",
+    "logo": "https://i.postimg.cc/TP2rY0cr/DD-Sports.png",
+    "playurl": "https://liveb.streamready.in/ddsports/smil:common.smil/playlist.m3u8",
+    "group": "Sports",
+    "language": "Hindi",
     "ua": ""
   },
   {

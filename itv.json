@@ -88,11 +88,11 @@
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Good News Today",
+    "logo": "https://i.postimg.cc/nLfg8b7k/Good-News-Today.png",
+    "playurl": "https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8",
+    "group": "News",
+    "language": "Hindi",
     "ua": ""
   },
   {

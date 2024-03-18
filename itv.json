@@ -56,35 +56,35 @@
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "NDTV 24x7",
+    "logo": "https://i.postimg.cc/Vkyg0y0B/NDTV-24x7.png",
+    "playurl": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
+    "group": "News",
+    "language": "English",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "NDTV India",
+    "logo": "https://i.postimg.cc/5t2zhSkT/NDTV-India.png",
+    "playurl": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8",
+    "group": "News",
+    "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "NDTV Profit",
+    "logo": "https://i.postimg.cc/sfhWCXwj/NDTV-Profit.png",
+    "playurl": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8",
+    "group": "News",
+    "language": "English",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Republic Bharat",
+    "logo": "https://i.ibb.co/9WsdgrJ/Republic-Bharat.png",
+    "playurl": "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8",
+    "group": "News",
+    "language": "Hindi",
     "ua": ""
   },
   {

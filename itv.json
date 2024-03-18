@@ -312,7 +312,7 @@
     "ua": ""
   },
   {
-    "title": "Bhojpuri Cinema",
+    "title": "Bhojpuri Cinema (Bhojpuri)",
     "logo": "https://i.postimg.cc/sx8LVzxw/Bhojpuri-Cinema.png",
     "playurl": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
     "group": "Movies",
@@ -384,27 +384,19 @@
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "DD India",
+    "logo": "https://i.postimg.cc/QdqWK74h/DD-India.png",
+    "playurl": "https://yupp.hmapps.workers.dev/dd-india.m3u8",
+    "group": "News",
+    "language": "English",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
-    "ua": ""
-  },
-  {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Dabangg TV (Bhojpuri)",
+    "logo": "https://i.postimg.cc/QCD6m13S/Dabangg-TV.png",
+    "playurl": "https://yupp.hmapps.workers.dev/dabangg.m3u8",
+    "group": "Entertainment",
+    "language": "Bhojpuri",
     "ua": ""
   },
   {

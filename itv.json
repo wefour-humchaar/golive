@@ -24,7 +24,7 @@
     "ua": ""
   },
   {
-    "title": "India TV News",
+    "title": "India TV",
     "logo": "https://i.ibb.co/51Hh0hF/India-TV.png",
     "playurl": "https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/master.m3u8",
     "group": "News",
@@ -32,7 +32,7 @@
     "ua": ""
   },
   {
-    "title": "India TV News (Source 2)",
+    "title": "India TV (Source 2)",
     "logo": "https://i.ibb.co/51Hh0hF/India-TV.png",
     "playurl": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
     "group": "News",
@@ -120,27 +120,27 @@
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "News 24",
+    "logo": "https://i.postimg.cc/PxD0QfCq/News-24.png",
+    "playurl": "https://bb4ece8d78fb4e85b0713ee8a3f73e7b.mediatailor.ap-south-1.amazonaws.com/v1/master/8c46099fe45335f63ce7178b3eb4f427ab1d2158/news24-prod-pal/playlist.m3u8",
+    "group": "News",
+    "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "1st India News",
+    "logo": "https://i.postimg.cc/mkKrC7tr/1st-India-News.png",
+    "playurl": "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
+    "group": "News",
+    "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "",
+    "title": "DD News HD",
     "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "playurl": "https://ytl.hmapps.workers.dev/@DDnews.m3u8",
+    "group": "News",
+    "language": "Hindi",
     "ua": ""
   },
   {

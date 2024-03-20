@@ -712,147 +712,163 @@
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
+    "title": "9XM",
+    "logo": "https://i.ibb.co/zbQHfcF/9XM.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=9xm",
+    "group": "Music",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Mastiii",
+    "logo": "https://i.ibb.co/kH6sgvR/Mastiii.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=mastiii",
+    "group": "Music",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "& Pictures (And Pictures)",
+    "logo": "https://i.ibb.co/C5vCKzR/pictures.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=-pictures",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "& Pictures HD (And Pictures HD)",
+    "logo": "https://i.ibb.co/ZK3yF3C/pictures-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=-pictures-hd",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "& TV (And TV)",
+    "logo": "https://i.ibb.co/sHNF1Ss/TV-And-TV.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=-tv",
+    "group": "Entertainment",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "& TV HD (And TV HD)",
+    "logo": "https://i.ibb.co/GRtg2Ps/tvHD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=-tv-hd",
+    "group": "Entertainment",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "DD National",
+    "logo": "https://i.ibb.co/wBCgtM7/DD-National.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=dd-national",
+    "group": "Entertainment",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Animal Planet HD World",
+    "logo": "https://i.ibb.co/KbsgK5B/Animal-Planet-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=animal-planet-hd-world",
+    "group": "Infotainment",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Discovery HD World",
+    "logo": "https://i.ibb.co/3hmVwGX/Discovery-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=discovery-hd-world",
+    "group": "Infotainment",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Discovery Kids",
+    "logo": "https://i.ibb.co/LzQgDnT/Discovery-Kids.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=discovery-kids",
+    "group": "Infotainment",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Discovery Science",
+    "logo": "https://i.ibb.co/djh2xt2/Discovery-Science.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=discovery-science",
+    "group": "Infotainment",
     "language": "",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "MTV Beats",
+    "logo": "https://i.ibb.co/4ZbTwGT/MTV-Beats.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=mtv-beats",
+    "group": "Music",
+    "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Sangeet Bhojpuri",
+    "logo": "https://i.ibb.co/dLk5ggH/Sangeet-Bhojpuri.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=sangeet-bhojpuri",
+    "group": "Music",
+    "language": "Bhojpuri",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Dabangg (Bhojpuri)",
+    "logo": "https://i.ibb.co/4RXqpdq/Dabangg-TV.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=dabangg",
+    "group": "Music",
+    "language": "Bhojpuri",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Zee Action",
+    "logo": "https://i.ibb.co/D9P4K6r/Zee-Action.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-action",
+    "group": "Movies",
+    "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Zee Anmol",
+    "logo": "https://i.ibb.co/bQpYfnX/Zee-Anmol.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-anmol",
+    "group": "Entertainment",
+    "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Zee Anmol Cinema",
+    "logo": "https://i.ibb.co/wJqQKVr/Zee-Anmol-Cinema.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-anmol-cinema",
+    "group": "Movies",
+    "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Zee Bollywood",
+    "logo": "https://i.ibb.co/X87WkSJ/Zee-Bollywood.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-bollywood",
+    "group": "Movies",
+    "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Zee Cinema",
+    "logo": "https://i.ibb.co/xjx4tH1/Zee-Cinema.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-cinema",
+    "group": "Movies",
+    "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
-    "ua": ""
-  },
-  {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
-    "ua": ""
-  },
-  {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
-    "ua": ""
-  },
-  {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
-    "ua": ""
-  },
-  {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
-    "ua": ""
-  },
-  {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
-    "ua": ""
-  },
-  {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
-    "ua": ""
-  },
-  {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
-    "ua": ""
-  },
-  {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Zee Cinema HD",
+    "logo": "https://i.ibb.co/xjx4tH1/Zee-Cinema.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-cinema-hd",
+    "group": "Movies",
+    "language": "Hindi",
     "ua": ""
   },
   {

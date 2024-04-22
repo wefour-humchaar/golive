@@ -856,27 +856,27 @@
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Zee TV HD",
+    "logo": "https://i.postimg.cc/gkqt293N/Zee-TV-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-zeetvhd",
+    "group": "Entertainment",
+    "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "&TV HD",
+    "logo": "https://i.postimg.cc/NGpVYvYY/tvHD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-tvhd_0",
+    "group": "Entertainment",
+    "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Zee Cafe HD",
+    "logo": "https://i.postimg.cc/1zv7pbBs/Zee-Cafe-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-zeecafehd",
+    "group": "Movies",
+    "language": "English",
     "ua": ""
   },
   {

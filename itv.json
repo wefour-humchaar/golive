@@ -880,6 +880,94 @@
     "ua": ""
   },
   {
+    "title": "& Pictures HD",
+    "logo": "https://i.postimg.cc/fLCKMt2w/pictures-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-tvpictureshd",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "& Flix HD",
+    "logo": "https://i.postimg.cc/6qfnry48/flixHD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-channel_2105335046",
+    "group": "Movies",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "& Prive HD",
+    "logo": "https://i.postimg.cc/bv4BMFCQ/Prive-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-privéhd",
+    "group": "Movies",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "&xplor HD",
+    "logo": "https://i.postimg.cc/BQ1Xf8nH/xplorHD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-209",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Zee Biskope (Bhojpuri)",
+    "logo": "https://i.postimg.cc/rp99GZ6V/Zee-Biskope.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-216",
+    "group": "Movies",
+    "language": "Bhojpuri",
+    "ua": ""
+  },
+  {
+    "title": "Zee Zest HD",
+    "logo": "https://i.postimg.cc/tC5PMZSk/Zee-Zest-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-348",
+    "group": "Lifestyle",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Zee Cinema HD",
+    "logo": "https://i.postimg.cc/8cfKbdBZ/Zee-Cinema-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-zeecinemahd",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": ""
+  },
+  {
     "title": "",
     "logo": "",
     "playurl": "",

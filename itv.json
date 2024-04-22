@@ -16,22 +16,6 @@
     "ua": ""
   },
   {
-    "title": "News Nation",
-    "logo": "https://i.postimg.cc/c19BKRnZ/News-Nation.png",
-    "playurl": "https://liveb.streamready.in/newsnation/smil:common.smil/index.m3u8",
-    "group": "News",
-    "language": "Hindi",
-    "ua": ""
-  },
-  {
-    "title": "News State UP Uttarakhand",
-    "logo": "https://i.postimg.cc/3wzPHkXQ/News-State-UP-UK.jpg",
-    "playurl": "https://liveb.streamready.in/newsstateupuk/smil:common.smil/playlist.m3u8",
-    "group": "News",
-    "language": "Hindi",
-    "ua": ""
-  },
-  {
     "title": "India News",
     "logo": "https://i.ibb.co/MDnfPmx/India-News.png",
     "playurl": "https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8",
@@ -168,14 +152,6 @@
     "ua": ""
   },
   {
-    "title": "DD News",
-    "logo": "https://i.postimg.cc/kgsfdRy2/DD-News.png",
-    "playurl": "https://liveb.streamready.in/ddnews/smil:common.smil/playlist.m3u8",
-    "group": "News",
-    "language": "Hindi",
-    "ua": ""
-  },
-  {
     "title": "DD News HD",
     "logo": "https://i.postimg.cc/kgsfdRy2/DD-News.png",
     "playurl": "https://ytl.hmapps.workers.dev/@DDnews.m3u8",
@@ -203,14 +179,6 @@
     "title": "Bharat Samachar",
     "logo": "https://i.postimg.cc/PrtqyhHQ/Bharat-Samachar.png",
     "playurl": "https://yupp.hmapps.workers.dev/bharat-samachar.m3u8",
-    "group": "News",
-    "language": "Hindi",
-    "ua": ""
-  },
-  {
-    "title": "IBC 24",
-    "logo": "https://i.postimg.cc/rFbb4dH0/IBC-24.png",
-    "playurl": "https://liveb.streamready.in/ibc24/smil:common.smil/playlist.m3u8",
     "group": "News",
     "language": "Hindi",
     "ua": ""
@@ -365,22 +333,6 @@
     "playurl": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8",
     "group": "Sports",
     "language": "English",
-    "ua": ""
-  },
-  {
-    "title": "Mastiii",
-    "logo": "https://i.postimg.cc/NjJ9scCx/Mastiii.png",
-    "playurl": "https://liveb.streamready.in/masti/smil:common.smil/index.m3u8",
-    "group": "Music",
-    "language": "Hindi",
-    "ua": ""
-  },
-  {
-    "title": "DD Sports",
-    "logo": "https://i.postimg.cc/TP2rY0cr/DD-Sports.png",
-    "playurl": "https://liveb.streamready.in/ddsports/smil:common.smil/playlist.m3u8",
-    "group": "Sports",
-    "language": "Hindi",
     "ua": ""
   },
   {

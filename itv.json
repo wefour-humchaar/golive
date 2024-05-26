@@ -624,14 +624,6 @@
     "ua": ""
   },
   {
-    "title": "& Pictures (And Pictures) (D2H)",
-    "logo": "https://i.ibb.co/C5vCKzR/pictures.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=-pictures",
-    "group": "Movies",
-    "language": "Hindi",
-    "ua": ""
-  },
-  {
     "title": "& Pictures HD (And Pictures HD) (D2H)",
     "logo": "https://i.ibb.co/ZK3yF3C/pictures-HD.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=-pictures-hd",
@@ -764,14 +756,6 @@
     "logo": "https://i.ibb.co/6RKvVyL/Zee-Cinema-HD.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-cinema-hd",
     "group": "Movies",
-    "language": "Hindi",
-    "ua": ""
-  },
-  {
-    "title": "Zee TV (D2H)",
-    "logo": "https://i.ibb.co/FDBDBys/Zee-TV.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-tv",
-    "group": "Entertainment",
     "language": "Hindi",
     "ua": ""
   },

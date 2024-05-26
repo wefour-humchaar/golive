@@ -840,38 +840,6 @@
     "ua": ""
   },
   {
-    "title": "Zee Biskope Bhojpuri (Zee)",
-    "logo": "https://i.postimg.cc/rp99GZ6V/Zee-Biskope.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
-    "group": "Movies",
-    "language": "Bhojpuri",
-    "ua": ""
-  },
-  {
-    "title": "& Flix HD (Zee)",
-    "logo": "https://i.postimg.cc/6qfnry48/flixHD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
-    "group": "Movies",
-    "language": "English",
-    "ua": ""
-  },
-  {
-    "title": "& Prive HD (Zee)",
-    "logo": "https://i.postimg.cc/bv4BMFCQ/Prive-HD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
-    "group": "Movies",
-    "language": "English",
-    "ua": ""
-  },
-  {
-    "title": "&xplor HD (Zee)",
-    "logo": "https://i.postimg.cc/BQ1Xf8nH/xplorHD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-209",
-    "group": "Movies",
-    "language": "Hindi",
-    "ua": ""
-  },
-  {
     "title": "",
     "logo": "",
     "playurl": "",

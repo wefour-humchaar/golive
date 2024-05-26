@@ -808,63 +808,63 @@
     "ua": ""
   },
   {
-    "title": "Big Magic",
+    "title": "Big Magic (Jio)",
     "logo": "https://i.postimg.cc/TPgMY5wD/Big-Magic.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-bigmagic_1786965389",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "Zee TV HD",
+    "title": "Zee TV HD (Jio)",
     "logo": "https://i.postimg.cc/gkqt293N/Zee-TV-HD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-zeetvhd",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "&TV HD",
+    "title": "&TV HD (Jio)",
     "logo": "https://i.postimg.cc/NGpVYvYY/tvHD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-tvhd_0",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "Zee Cafe HD",
+    "title": "Zee Cafe HD (Jio)",
     "logo": "https://i.postimg.cc/1zv7pbBs/Zee-Cafe-HD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-zeecafehd",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
     "group": "Movies",
     "language": "English",
     "ua": ""
   },
   {
-    "title": "& Pictures HD",
+    "title": "& Pictures HD (Jio)",
     "logo": "https://i.postimg.cc/fLCKMt2w/pictures-HD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-tvpictureshd",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
     "group": "Movies",
     "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "& Flix HD",
+    "title": "& Flix HD (Jio)",
     "logo": "https://i.postimg.cc/6qfnry48/flixHD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-channel_2105335046",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
     "group": "Movies",
     "language": "English",
     "ua": ""
   },
   {
-    "title": "& Prive HD",
+    "title": "& Prive HD (Jio)",
     "logo": "https://i.postimg.cc/bv4BMFCQ/Prive-HD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-privéhd",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
     "group": "Movies",
     "language": "English",
     "ua": ""
   },
   {
-    "title": "&xplor HD",
+    "title": "&xplor HD (Jio)",
     "logo": "https://i.postimg.cc/BQ1Xf8nH/xplorHD.png",
     "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-209",
     "group": "Movies",
@@ -872,25 +872,25 @@
     "ua": ""
   },
   {
-    "title": "Zee Biskope (Bhojpuri)",
+    "title": "Zee Biskope (Bhojpuri) (Jio)",
     "logo": "https://i.postimg.cc/rp99GZ6V/Zee-Biskope.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-216",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
     "group": "Movies",
     "language": "Bhojpuri",
     "ua": ""
   },
   {
-    "title": "Zee Zest HD",
+    "title": "Zee Zest HD (Jio)",
     "logo": "https://i.postimg.cc/tC5PMZSk/Zee-Zest-HD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-348",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
     "group": "Lifestyle",
     "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "Zee Cinema HD",
+    "title": "Zee Cinema HD (Jio)",
     "logo": "https://i.postimg.cc/8cfKbdBZ/Zee-Cinema-HD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-zeecinemahd",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
     "group": "Movies",
     "language": "Hindi",
     "ua": ""

@@ -864,6 +864,22 @@
     "ua": ""
   },
   {
+    "title": "Nat Geo HD (Tata)",
+    "logo": "https://i.postimg.cc/q7CRHFXy/National-Geographic-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/b/z/t.m3u8?id=605",
+    "group": "Infotainment",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Disney Channel (Tata)",
+    "logo": "https://i.postimg.cc/vB3CqYgz/Disney.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/b/z/t.m3u8?id=114",
+    "group": "Kids",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
     "title": "",
     "logo": "",
     "playurl": "",

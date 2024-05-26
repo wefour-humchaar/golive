@@ -512,7 +512,7 @@
     "ua": ""
   },
   {
-    "title": "Colors HD",
+    "title": "Colors HD (Jio)",
     "logo": "https://i.postimg.cc/KcL31ySD/Colors-HD.png",
     "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Colors_HD",
     "group": "Entertainment",
@@ -520,7 +520,7 @@
     "ua": ""
   },
   {
-    "title": "Colors Cineplex HD",
+    "title": "Colors Cineplex HD (Jio)",
     "logo": "https://i.postimg.cc/vmz3F6XD/Colors-Cineplex-HD.png",
     "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Colors_Cineplex_HD",
     "group": "Movies",
@@ -528,7 +528,7 @@
     "ua": ""
   },
   {
-    "title": "Comedy Central HD",
+    "title": "Comedy Central HD (Jio)",
     "logo": "https://i.postimg.cc/sft8J7LR/Comedy-Central-HD.png",
     "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Comedy_Central_HD",
     "group": "Entertainment",
@@ -544,7 +544,7 @@
     "ua": ""
   },
   {
-    "title": "Nick HD +",
+    "title": "Nick HD Plus (Jio)",
     "logo": "https://i.postimg.cc/FHfYQtZS/Nick-HD.png",
     "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Nick_HD_Plus",
     "group": "Kids",
@@ -552,7 +552,7 @@
     "ua": ""
   },
   {
-    "title": "Sonic Nickelodeon",
+    "title": "Sonic Nickelodeon (Jio)",
     "logo": "https://i.postimg.cc/cJzyyjFv/Sonic-Nickelodeon.png",
     "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Nick_Hindi",
     "group": "Kids",
@@ -560,7 +560,7 @@
     "ua": ""
   },
   {
-    "title": "Nick Jr.",
+    "title": "Nick Jr. (Jio)",
     "logo": "https://i.postimg.cc/ZqfN1DW0/Nick-Jr.png",
     "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Nick_Junior",
     "group": "Kids",
@@ -568,7 +568,7 @@
     "ua": ""
   },
   {
-    "title": "Colors Rishtey",
+    "title": "Colors Rishtey (Jio)",
     "logo": "https://i.postimg.cc/1X2f8JRX/Colors-Rishtey.png",
     "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Rishtey_Cineplex",
     "group": "Entertainment",
@@ -576,7 +576,7 @@
     "ua": ""
   },
   {
-    "title": "Colors Infinity HD",
+    "title": "Colors Infinity HD (Jio)",
     "logo": "https://i.postimg.cc/JnbLNxQt/Colors-Infinity-HD.png",
     "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Colors_Infinity_HD",
     "group": "Entertainment",
@@ -584,7 +584,7 @@
     "ua": ""
   },
   {
-    "title": "Colors Cineplex Bollywood",
+    "title": "Colors Cineplex Bollywood (Jio)",
     "logo": "https://i.postimg.cc/d0xrFmLB/Colors-Cineplex-Bollywood.png",
     "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Colors_Cineplex_Bollywood",
     "group": "Movies",
@@ -592,7 +592,7 @@
     "ua": ""
   },
   {
-    "title": "Colors Cineplex Superhits",
+    "title": "Colors Cineplex Superhits (Jio)",
     "logo": "https://i.postimg.cc/7PzKVLv8/Colors-Cineplex-Superhits.png",
     "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Rishtey_Cineplex",
     "group": "Movies",
@@ -600,15 +600,7 @@
     "ua": ""
   },
   {
-    "title": "MTV HD +",
-    "logo": "https://i.postimg.cc/054snqcc/MTV-HD-Plus.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=MTV_HD_Plus",
-    "group": "Music",
-    "language": "Hindi",
-    "ua": ""
-  },
-  {
-    "title": "MTV HD +",
+    "title": "MTV HD Plus (Jio)",
     "logo": "https://i.postimg.cc/054snqcc/MTV-HD-Plus.png",
     "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=MTV_HD_Plus",
     "group": "Entertainment",
@@ -616,7 +608,7 @@
     "ua": ""
   },
   {
-    "title": "9XM",
+    "title": "9XM (D2H)",
     "logo": "https://i.ibb.co/zbQHfcF/9XM.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=9xm",
     "group": "Music",
@@ -624,7 +616,7 @@
     "ua": ""
   },
   {
-    "title": "Mastiii",
+    "title": "Mastiii (D2H)",
     "logo": "https://i.ibb.co/kH6sgvR/Mastiii.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=mastiii",
     "group": "Music",
@@ -632,7 +624,7 @@
     "ua": ""
   },
   {
-    "title": "& Pictures (And Pictures)",
+    "title": "& Pictures (And Pictures) (D2H)",
     "logo": "https://i.ibb.co/C5vCKzR/pictures.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=-pictures",
     "group": "Movies",
@@ -640,7 +632,7 @@
     "ua": ""
   },
   {
-    "title": "& Pictures HD (And Pictures HD)",
+    "title": "& Pictures HD (And Pictures HD) (D2H)",
     "logo": "https://i.ibb.co/ZK3yF3C/pictures-HD.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=-pictures-hd",
     "group": "Movies",
@@ -648,7 +640,7 @@
     "ua": ""
   },
   {
-    "title": "& TV (And TV)",
+    "title": "& TV (And TV) (D2H)",
     "logo": "https://i.ibb.co/sHNF1Ss/TV-And-TV.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=-tv",
     "group": "Entertainment",
@@ -656,7 +648,7 @@
     "ua": ""
   },
   {
-    "title": "& TV HD (And TV HD)",
+    "title": "& TV HD (And TV HD) (D2H)",
     "logo": "https://i.ibb.co/GRtg2Ps/tvHD.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=-tv-hd",
     "group": "Entertainment",
@@ -664,7 +656,7 @@
     "ua": ""
   },
   {
-    "title": "DD National",
+    "title": "DD National (D2H)",
     "logo": "https://i.ibb.co/wBCgtM7/DD-National.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=dd-national",
     "group": "Entertainment",
@@ -672,7 +664,7 @@
     "ua": ""
   },
   {
-    "title": "Animal Planet HD World",
+    "title": "Animal Planet HD World (D2H)",
     "logo": "https://i.ibb.co/KbsgK5B/Animal-Planet-HD.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=animal-planet-hd-world",
     "group": "Infotainment",
@@ -680,7 +672,7 @@
     "ua": ""
   },
   {
-    "title": "Discovery HD World",
+    "title": "Discovery HD World (D2H)",
     "logo": "https://i.ibb.co/3hmVwGX/Discovery-HD.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=discovery-hd-world",
     "group": "Infotainment",
@@ -688,7 +680,7 @@
     "ua": ""
   },
   {
-    "title": "Discovery Kids",
+    "title": "Discovery Kids (D2H)",
     "logo": "https://i.ibb.co/LzQgDnT/Discovery-Kids.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=discovery-kids",
     "group": "Infotainment",
@@ -696,7 +688,7 @@
     "ua": ""
   },
   {
-    "title": "Discovery Science",
+    "title": "Discovery Science (D2H)",
     "logo": "https://i.ibb.co/djh2xt2/Discovery-Science.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=discovery-science",
     "group": "Infotainment",
@@ -704,7 +696,7 @@
     "ua": ""
   },
   {
-    "title": "MTV Beats",
+    "title": "MTV Beats (D2H)",
     "logo": "https://i.ibb.co/4ZbTwGT/MTV-Beats.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=mtv-beats",
     "group": "Music",
@@ -712,7 +704,7 @@
     "ua": ""
   },
   {
-    "title": "Sangeet Bhojpuri",
+    "title": "Sangeet Bhojpuri (D2H)",
     "logo": "https://i.ibb.co/dLk5ggH/Sangeet-Bhojpuri.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=sangeet-bhojpuri",
     "group": "Music",
@@ -720,7 +712,7 @@
     "ua": ""
   },
   {
-    "title": "Dabangg (Bhojpuri)",
+    "title": "Dabangg (Bhojpuri) (D2H)",
     "logo": "https://i.ibb.co/4RXqpdq/Dabangg-TV.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=dabangg",
     "group": "Music",
@@ -728,7 +720,7 @@
     "ua": ""
   },
   {
-    "title": "Zee Action",
+    "title": "Zee Action (D2H)",
     "logo": "https://i.ibb.co/D9P4K6r/Zee-Action.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-action",
     "group": "Movies",
@@ -736,7 +728,7 @@
     "ua": ""
   },
   {
-    "title": "Zee Anmol",
+    "title": "Zee Anmol (D2H)",
     "logo": "https://i.ibb.co/bQpYfnX/Zee-Anmol.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-anmol",
     "group": "Entertainment",
@@ -744,7 +736,7 @@
     "ua": ""
   },
   {
-    "title": "Zee Anmol Cinema",
+    "title": "Zee Anmol Cinema (D2H)",
     "logo": "https://i.ibb.co/wJqQKVr/Zee-Anmol-Cinema.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-anmol-cinema",
     "group": "Movies",
@@ -752,7 +744,7 @@
     "ua": ""
   },
   {
-    "title": "Zee Bollywood",
+    "title": "Zee Bollywood (D2H)",
     "logo": "https://i.ibb.co/X87WkSJ/Zee-Bollywood.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-bollywood",
     "group": "Movies",
@@ -760,7 +752,7 @@
     "ua": ""
   },
   {
-    "title": "Zee Cinema",
+    "title": "Zee Cinema (D2H)",
     "logo": "https://i.ibb.co/xjx4tH1/Zee-Cinema.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-cinema",
     "group": "Movies",
@@ -768,7 +760,7 @@
     "ua": ""
   },
   {
-    "title": "Zee Cinema HD",
+    "title": "Zee Cinema HD (D2H)",
     "logo": "https://i.ibb.co/6RKvVyL/Zee-Cinema-HD.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-cinema-hd",
     "group": "Movies",
@@ -776,7 +768,7 @@
     "ua": ""
   },
   {
-    "title": "Zee TV",
+    "title": "Zee TV (D2H)",
     "logo": "https://i.ibb.co/FDBDBys/Zee-TV.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-tv",
     "group": "Entertainment",
@@ -784,7 +776,7 @@
     "ua": ""
   },
   {
-    "title": "Zee TV HD",
+    "title": "Zee TV HD (D2H)",
     "logo": "https://i.ibb.co/pz5Kgdb/Zee-TV-HD.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zee-tv-hd",
     "group": "Entertainment",
@@ -792,7 +784,7 @@
     "ua": ""
   },
   {
-    "title": "Zing",
+    "title": "Zing (D2H)",
     "logo": "https://i.ibb.co/D9Vk0yv/Zing.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zing",
     "group": "Music",
@@ -800,7 +792,7 @@
     "ua": ""
   },
   {
-    "title": "Zoom",
+    "title": "Zoom (D2H)",
     "logo": "https://i.ibb.co/dkmg8JX/Zoom.png",
     "playurl": "https://indcdn.iify.cloud/pvt/d/playlist.m3u8?id=zoom",
     "group": "Music",
@@ -810,7 +802,7 @@
   {
     "title": "Big Magic (Jio)",
     "logo": "https://i.postimg.cc/TPgMY5wD/Big-Magic.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Big_Magic",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": ""
@@ -818,15 +810,15 @@
   {
     "title": "Zee TV HD (Jio)",
     "logo": "https://i.postimg.cc/gkqt293N/Zee-TV-HD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Zee_TV_HD",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": ""
   },
   {
-    "title": "&TV HD (Jio)",
+    "title": "&TV HD (And TV HD) (Jio)",
     "logo": "https://i.postimg.cc/NGpVYvYY/tvHD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=And_TV_HD",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": ""
@@ -834,7 +826,7 @@
   {
     "title": "Zee Cafe HD (Jio)",
     "logo": "https://i.postimg.cc/1zv7pbBs/Zee-Cafe-HD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Zee_Cafe_HD",
     "group": "Movies",
     "language": "English",
     "ua": ""
@@ -842,47 +834,15 @@
   {
     "title": "& Pictures HD (Jio)",
     "logo": "https://i.postimg.cc/fLCKMt2w/pictures-HD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=And_Pictures_HD",
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
-  },
-  {
-    "title": "& Flix HD (Jio)",
-    "logo": "https://i.postimg.cc/6qfnry48/flixHD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
-    "group": "Movies",
-    "language": "English",
-    "ua": ""
-  },
-  {
-    "title": "& Prive HD (Jio)",
-    "logo": "https://i.postimg.cc/bv4BMFCQ/Prive-HD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
-    "group": "Movies",
-    "language": "English",
-    "ua": ""
-  },
-  {
-    "title": "&xplor HD (Jio)",
-    "logo": "https://i.postimg.cc/BQ1Xf8nH/xplorHD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-209",
-    "group": "Movies",
-    "language": "Hindi",
-    "ua": ""
-  },
-  {
-    "title": "Zee Biskope (Bhojpuri) (Jio)",
-    "logo": "https://i.postimg.cc/rp99GZ6V/Zee-Biskope.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
-    "group": "Movies",
-    "language": "Bhojpuri",
     "ua": ""
   },
   {
     "title": "Zee Zest HD (Jio)",
     "logo": "https://i.postimg.cc/tC5PMZSk/Zee-Zest-HD.png",
-    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Zee_Zest_HD",
     "group": "Lifestyle",
     "language": "Hindi",
     "ua": ""
@@ -890,7 +850,39 @@
   {
     "title": "Zee Cinema HD (Jio)",
     "logo": "https://i.postimg.cc/8cfKbdBZ/Zee-Cinema-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=Zee_Cinema_HD",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": ""
+  },
+  {
+    "title": "Zee Biskope Bhojpuri (Zee)",
+    "logo": "https://i.postimg.cc/rp99GZ6V/Zee-Biskope.png",
     "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
+    "group": "Movies",
+    "language": "Bhojpuri",
+    "ua": ""
+  },
+  {
+    "title": "& Flix HD (Zee)",
+    "logo": "https://i.postimg.cc/6qfnry48/flixHD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
+    "group": "Movies",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "& Prive HD (Zee)",
+    "logo": "https://i.postimg.cc/bv4BMFCQ/Prive-HD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/v/stream.m3u8?id=",
+    "group": "Movies",
+    "language": "English",
+    "ua": ""
+  },
+  {
+    "title": "&xplor HD (Zee)",
+    "logo": "https://i.postimg.cc/BQ1Xf8nH/xplorHD.png",
+    "playurl": "https://indcdn.iify.cloud/pvt/g/stream.m3u8?id=0-9-209",
     "group": "Movies",
     "language": "Hindi",
     "ua": ""

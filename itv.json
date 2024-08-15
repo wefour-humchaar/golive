@@ -171,7 +171,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Discovery HD",
+    "title": "Discovery HD (DPlus)",
     "logo": "https://i.postimg.cc/jjWDJJnF/Discovery-HD.png",
     "playurl": "https://stlive.pages.dev/discovery-hd.m3u8",
     "group": "Infotainment",
@@ -180,7 +180,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Discovery Science",
+    "title": "Discovery Science (DPlus)",
     "logo": "https://i.postimg.cc/x1SLJ4xf/Discovery-Science.png",
     "playurl": "https://stlive.pages.dev/discovery-science.m3u8",
     "group": "Infotainment",
@@ -189,7 +189,7 @@
     "ckdrm": ""
   },
   {
-    "title": "TLC HD",
+    "title": "TLC HD (DPlus)",
     "logo": "https://i.postimg.cc/GmrXDQqC/TLC-HD.png",
     "playurl": "https://stlive.pages.dev/tlc-hd.m3u8",
     "group": "Infotainment",
@@ -198,7 +198,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Discovery Turbo",
+    "title": "Discovery Turbo (DPlus)",
     "logo": "https://i.postimg.cc/5NmwhMqh/Discovery-Turbo.png",
     "playurl": "https://stlive.pages.dev/discovery-turbo.m3u8",
     "group": "Infotainment",
@@ -207,7 +207,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Animal Planet HD",
+    "title": "Animal Planet HD (DPlus)",
     "logo": "https://i.postimg.cc/LsWkxBBh/Animal-Planet-HD.png",
     "playurl": "https://stlive.pages.dev/animal-planet-hd.m3u8",
     "group": "Infotainment",
@@ -216,7 +216,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Investigation Discovery",
+    "title": "Investigation Discovery (DPlus)",
     "logo": "https://i.postimg.cc/ydK43sq1/Investigation-Discovery.png",
     "playurl": "https://stlive.pages.dev/investigation-discovery.m3u8",
     "group": "Infotainment",
@@ -225,7 +225,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Travel Channel",
+    "title": "Travel Channel (DPlus)",
     "logo": "https://i.postimg.cc/XvQmqFg8/Travel-Channel.png",
     "playurl": "https://stlive.pages.dev/trvl.m3u8",
     "group": "Infotainment",
@@ -234,7 +234,7 @@
     "ckdrm": ""
   },
   {
-    "title": "HGTV",
+    "title": "HGTV (DPlus)",
     "logo": "https://i.postimg.cc/3NqZ32y3/HGTV.png",
     "playurl": "https://stlive.pages.dev/hgtv.m3u8",
     "group": "Infotainment",
@@ -243,7 +243,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Food Network",
+    "title": "Food Network (DPlus)",
     "logo": "https://i.postimg.cc/Nj0PVLt2/Food-Network.png",
     "playurl": "https://stlive.pages.dev/food-network.m3u8",
     "group": "Infotainment",
@@ -252,7 +252,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Discovery Kids",
+    "title": "Discovery Kids (DPlus)",
     "logo": "https://i.postimg.cc/mk58WyBc/Discovery-Kids.png",
     "playurl": "https://stlive.pages.dev/discovery-kids.m3u8",
     "group": "Kids",
@@ -380,7 +380,7 @@
   {
     "title": "Sony HD (SET HD) (TataPlay)",
     "logo": "https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": "",
@@ -389,7 +389,7 @@
   {
     "title": "Sony SAB HD (TataPlay)",
     "logo": "https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": "",
@@ -398,7 +398,7 @@
   {
     "title": "Sony Marathi (TataPlay)",
     "logo": "https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8",
     "group": "Entertainment",
     "language": "Marathi",
     "ua": "",
@@ -407,7 +407,7 @@
   {
     "title": "Sony Pal (TataPlay)",
     "logo": "https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": "",
@@ -416,7 +416,7 @@
   {
     "title": "Sony Yay (TataPlay)",
     "logo": "https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8",
     "group": "Kids",
     "language": "Hindi",
     "ua": "",
@@ -425,7 +425,7 @@
   {
     "title": "Sony MAX HD (TataPlay)",
     "logo": "https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
@@ -434,7 +434,7 @@
   {
     "title": "Sony MAX (TataPlay)",
     "logo": "https://i.postimg.cc/X7MmrgCs/SONY-MAX.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
@@ -443,7 +443,7 @@
   {
     "title": "Sony WAH (TataPlay)",
     "logo": "https://i.postimg.cc/jq6Qh61g/SONY-WAH.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
@@ -452,7 +452,7 @@
   {
     "title": "Sony MAX 2 (TataPlay)",
     "logo": "https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
@@ -461,7 +461,7 @@
   {
     "title": "Sony PIX HD (TataPlay)",
     "logo": "https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8",
     "group": "Movies",
     "language": "English",
     "ua": "",
@@ -470,7 +470,7 @@
   {
     "title": "Sony BBC Earth HD (TataPlay)",
     "logo": "https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8",
     "group": "Infotainment",
     "language": "English",
     "ua": "",
@@ -479,7 +479,7 @@
   {
     "title": "Sony Sports Ten 1 (TataPlay)",
     "logo": "https://i.postimg.cc/6QYLXBdk/SONY-SPORTS-TEN-1.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8",
     "group": "Sports",
     "language": "English",
     "ua": "",
@@ -488,7 +488,7 @@
   {
     "title": "Sony Sports Ten 2 (TataPlay)",
     "logo": "https://i.postimg.cc/FsbQV6bf/SONY-SPORTS-TEN-2.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8",
     "group": "Sports",
     "language": "English",
     "ua": "",
@@ -497,7 +497,7 @@
   {
     "title": "Sony Sports Ten 3 (TataPlay)",
     "logo": "https://i.postimg.cc/nzLv0NQn/SONY-SPORTS-TEN-3.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8",
     "group": "Sports",
     "language": "Hindi",
     "ua": "",
@@ -506,7 +506,7 @@
   {
     "title": "Sony Sports Ten 5 (TataPlay)",
     "logo": "https://i.postimg.cc/Vs72zb9N/SONY-SPORTS-TEN-5.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8",
     "group": "Sports",
     "language": "English",
     "ua": "",
@@ -515,7 +515,7 @@
   {
     "title": "Sony Sports Ten 1 HD (TataPlay)",
     "logo": "https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8",
     "group": "Sports",
     "language": "English",
     "ua": "",
@@ -524,7 +524,7 @@
   {
     "title": "Sony Sports Ten 2 HD (TataPlay)",
     "logo": "https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8",
     "group": "Sports",
     "language": "English",
     "ua": "",
@@ -533,7 +533,7 @@
   {
     "title": "Sony Sports Ten 3 HD (TataPlay)",
     "logo": "https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8",
     "group": "Sports",
     "language": "Hindi",
     "ua": "",
@@ -542,7 +542,7 @@
   {
     "title": "Sony Sports Ten 5 HD (TataPlay)",
     "logo": "https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png",
-    "playurl": "https://tataplay.slivcdn.com/hls/live/",
+    "playurl": "https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8",
     "group": "Sports",
     "language": "English",
     "ua": "",

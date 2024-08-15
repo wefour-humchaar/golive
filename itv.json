@@ -551,7 +551,7 @@
   {
     "title": "Colors HD (JioCinema)",
     "logo": "https://i.postimg.cc/KcL31ySD/Colors-HD.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/jc/stream.m3u8?id=3694429",
+    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=3694429",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": "",
@@ -560,7 +560,7 @@
   {
     "title": "Colors Cineplex HD (JioCinema)",
     "logo": "https://i.postimg.cc/vmz3F6XD/Colors-Cineplex-HD.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/jc/stream.m3u8?id=3774155",
+    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=3774155",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
@@ -569,7 +569,7 @@
   {
     "title": "Comedy Central HD (JioCinema)",
     "logo": "https://i.postimg.cc/sft8J7LR/Comedy-Central-HD.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/jc/stream.m3u8?id=3774152",
+    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=3774152",
     "group": "Entertainment",
     "language": "English",
     "ua": "",
@@ -578,7 +578,7 @@
   {
     "title": "MTV Beats HD (JioCinema)",
     "logo": "https://i.postimg.cc/x8rRLy1x/MTV-Beats-HD.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/jc/stream.m3u8?id=3774153",
+    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=3774153",
     "group": "Music",
     "language": "Hindi",
     "ua": "",
@@ -587,7 +587,7 @@
   {
     "title": "Nick HD Plus (JioCinema)",
     "logo": "https://i.postimg.cc/FHfYQtZS/Nick-HD.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/jc/stream.m3u8?id=3774147",
+    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=3774147",
     "group": "Kids",
     "language": "English",
     "ua": "",
@@ -596,7 +596,7 @@
   {
     "title": "Sonic Nickelodeon (JioCinema)",
     "logo": "https://i.postimg.cc/cJzyyjFv/Sonic-Nickelodeon.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/jc/stream.m3u8?id=3774149",
+    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=3774149",
     "group": "Kids",
     "language": "Hindi",
     "ua": "",
@@ -605,7 +605,7 @@
   {
     "title": "Nick Jr. (JioCinema)",
     "logo": "https://i.postimg.cc/ZqfN1DW0/Nick-Jr.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/jc/stream.m3u8?id=3774142",
+    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=3774142",
     "group": "Kids",
     "language": "English",
     "ua": "",
@@ -614,7 +614,7 @@
   {
     "title": "Colors Rishtey (JioCinema)",
     "logo": "https://i.postimg.cc/1X2f8JRX/Colors-Rishtey.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/jc/stream.m3u8?id=3694635",
+    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=3694635",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": "",
@@ -623,7 +623,7 @@
   {
     "title": "Colors Infinity HD (JioCinema)",
     "logo": "https://i.postimg.cc/JnbLNxQt/Colors-Infinity-HD.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/jc/stream.m3u8?id=3774150",
+    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=3774150",
     "group": "Entertainment",
     "language": "English",
     "ua": "",
@@ -632,7 +632,7 @@
   {
     "title": "Colors Cineplex Bollywood (JioCinema)",
     "logo": "https://i.postimg.cc/d0xrFmLB/Colors-Cineplex-Bollywood.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/jc/stream.m3u8?id=3845693",
+    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=3845693",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
@@ -641,7 +641,7 @@
   {
     "title": "Colors Cineplex Superhits (JioCinema)",
     "logo": "https://i.postimg.cc/7PzKVLv8/Colors-Cineplex-Superhits.png",
-    "playurl": "https://amplify.peopleweb.site/pvt/jc/stream.m3u8?id=",
+    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
@@ -650,7 +650,7 @@
   {
     "title": "MTV HD Plus (JioCinema)",
     "logo": "https://i.postimg.cc/054snqcc/MTV-HD-Plus.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/jc/stream.m3u8?id=3774151",
+    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=3774151",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": "",
@@ -659,7 +659,7 @@
   {
     "title": "Sports18 1 HD (JioCinema)",
     "logo": "https://i.postimg.cc/k407Kg0X/Sports18.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/jc/stream.m3u8?id=0000001",
+    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=0000001",
     "group": "Sports",
     "language": "English",
     "ua": "",
@@ -668,7 +668,7 @@
   {
     "title": "Sports18 Khel (JioCinema)",
     "logo": "https://i.postimg.cc/k407Kg0X/Sports18.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/jc/stream.m3u8?id=0000002",
+    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=0000002",
     "group": "Sports",
     "language": "Hindi",
     "ua": "",

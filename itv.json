@@ -657,54 +657,45 @@
     "ckdrm": ""
   },
   {
-    "title": "9XM (D2H)",
+    "title": "9XM (DishTV)",
     "logo": "https://i.ibb.co/zbQHfcF/9XM.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9XM/default/9XM.m3u8",
     "group": "Music",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Mastiii (D2H)",
+    "title": "Mastiii (Yupp)",
     "logo": "https://i.ibb.co/kH6sgvR/Mastiii.png",
-    "playurl": "",
+    "playurl": "https://yupp.hmapps.workers.dev/mastiii.m3u8",
     "group": "Music",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "& Pictures HD (And Pictures HD) (D2H)",
+    "title": "& Pictures HD (And Pictures HD) (DishTV)",
     "logo": "https://i.ibb.co/ZK3yF3C/pictures-HD.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "& TV (And TV) (D2H)",
-    "logo": "https://i.ibb.co/sHNF1Ss/TV-And-TV.png",
-    "playurl": "",
-    "group": "Entertainment",
-    "language": "Hindi",
-    "ua": "",
-    "ckdrm": ""
-  },
-  {
-    "title": "& TV HD (And TV HD) (D2H)",
+    "title": "& TV HD (And TV HD) (DishTV)",
     "logo": "https://i.ibb.co/GRtg2Ps/tvHD.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "DD National (D2H)",
+    "title": "DD National (DishTV)",
     "logo": "https://i.ibb.co/wBCgtM7/DD-National.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational.m3u8",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": "",
@@ -713,7 +704,7 @@
   {
     "title": "Animal Planet HD World (D2H)",
     "logo": "https://i.ibb.co/KbsgK5B/Animal-Planet-HD.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd/default/Animalplanethd.m3u8",
     "group": "Infotainment",
     "language": "Hindi",
     "ua": "",
@@ -722,7 +713,7 @@
   {
     "title": "Discovery HD World (D2H)",
     "logo": "https://i.ibb.co/3hmVwGX/Discovery-HD.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryhd/default/discoveryhd.m3u8",
     "group": "Infotainment",
     "language": "Hindi",
     "ua": "",
@@ -731,7 +722,7 @@
   {
     "title": "Discovery Kids (D2H)",
     "logo": "https://i.ibb.co/LzQgDnT/Discovery-Kids.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids/default/discoverykids.m3u8",
     "group": "Infotainment",
     "language": "Hindi",
     "ua": "",

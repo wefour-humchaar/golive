@@ -32,25 +32,9 @@
     "ua": ""
   },
   {
-    "title": "India TV (Source 2)",
-    "logo": "https://i.ibb.co/51Hh0hF/India-TV.png",
-    "playurl": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
-    "group": "News",
-    "language": "Hindi",
-    "ua": ""
-  },
-  {
     "title": "ABP News",
     "logo": "https://i.ibb.co/98rxt3B/ABP-News.png",
     "playurl": "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8",
-    "group": "News",
-    "language": "Hindi",
-    "ua": ""
-  },
-  {
-    "title": "ABP News (Distro)",
-    "logo": "https://i.ibb.co/98rxt3B/ABP-News.png",
-    "playurl": "https://dkshlpp7ugzua.cloudfront.net/hls/live/2042871-b/abpnews/master.m3u8",
     "group": "News",
     "language": "Hindi",
     "ua": ""
@@ -122,7 +106,7 @@
   {
     "title": "News 24",
     "logo": "https://i.postimg.cc/PxD0QfCq/News-24.png",
-    "playurl": "https://bb4ece8d78fb4e85b0713ee8a3f73e7b.mediatailor.ap-south-1.amazonaws.com/v1/master/8c46099fe45335f63ce7178b3eb4f427ab1d2158/news24-prod-pal/playlist.m3u8",
+    "playurl": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
     "group": "News",
     "language": "Hindi",
     "ua": ""
@@ -309,14 +293,6 @@
     "playurl": "https://epiconvh.s.llnwi.net/live/nazara/master.m3u8",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
-  },
-  {
-    "title": "Eurosport",
-    "logo": "https://i.postimg.cc/7LsCZV5T/Eurosports.png",
-    "playurl": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8",
-    "group": "Sports",
-    "language": "English",
     "ua": ""
   },
   {

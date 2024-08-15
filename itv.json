@@ -702,7 +702,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Animal Planet HD World (D2H)",
+    "title": "Animal Planet HD World (DishTV)",
     "logo": "https://i.ibb.co/KbsgK5B/Animal-Planet-HD.png",
     "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd/default/Animalplanethd.m3u8",
     "group": "Infotainment",
@@ -711,7 +711,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Discovery HD World (D2H)",
+    "title": "Discovery HD World (DishTV)",
     "logo": "https://i.ibb.co/3hmVwGX/Discovery-HD.png",
     "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryhd/default/discoveryhd.m3u8",
     "group": "Infotainment",
@@ -720,7 +720,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Discovery Kids (D2H)",
+    "title": "Discovery Kids (DishTV)",
     "logo": "https://i.ibb.co/LzQgDnT/Discovery-Kids.png",
     "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids/default/discoverykids.m3u8",
     "group": "Infotainment",
@@ -729,117 +729,99 @@
     "ckdrm": ""
   },
   {
-    "title": "Discovery Science (D2H)",
+    "title": "Discovery Science (DishTV)",
     "logo": "https://i.ibb.co/djh2xt2/Discovery-Science.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience/default/discoveryscience.m3u8",
     "group": "Infotainment",
     "language": "",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "MTV Beats (D2H)",
+    "title": "MTV Beats (DishTV)",
     "logo": "https://i.ibb.co/4ZbTwGT/MTV-Beats.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8",
     "group": "Music",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Sangeet Bhojpuri (D2H)",
+    "title": "Sangeet Bhojpuri (DishTV)",
     "logo": "https://i.ibb.co/dLk5ggH/Sangeet-Bhojpuri.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/Sangeetbhojpuri.m3u8",
     "group": "Music",
     "language": "Bhojpuri",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Dabangg (Bhojpuri) (D2H)",
-    "logo": "https://i.ibb.co/4RXqpdq/Dabangg-TV.png",
-    "playurl": "",
-    "group": "Music",
-    "language": "Bhojpuri",
-    "ua": "",
-    "ckdrm": ""
-  },
-  {
-    "title": "Zee Action (D2H)",
+    "title": "Zee Action (DishTV)",
     "logo": "https://i.ibb.co/D9P4K6r/Zee-Action.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Zee Anmol (D2H)",
+    "title": "Zee Anmol (DishTV)",
     "logo": "https://i.ibb.co/bQpYfnX/Zee-Anmol.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Zee Anmol Cinema (D2H)",
+    "title": "Zee Anmol Cinema (DishTV)",
     "logo": "https://i.ibb.co/wJqQKVr/Zee-Anmol-Cinema.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/zeeanmolcinema1.m3u8",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Zee Bollywood (D2H)",
+    "title": "Zee Bollywood (DishTV)",
     "logo": "https://i.ibb.co/X87WkSJ/Zee-Bollywood.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Zee Cinema (D2H)",
-    "logo": "https://i.ibb.co/xjx4tH1/Zee-Cinema.png",
-    "playurl": "",
-    "group": "Movies",
-    "language": "Hindi",
-    "ua": "",
-    "ckdrm": ""
-  },
-  {
-    "title": "Zee Cinema HD (D2H)",
+    "title": "Zee Cinema HD (DishTV)",
     "logo": "https://i.ibb.co/6RKvVyL/Zee-Cinema-HD.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Zee TV HD (D2H)",
+    "title": "Zee TV HD (DishTV)",
     "logo": "https://i.ibb.co/pz5Kgdb/Zee-TV-HD.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Zing (D2H)",
+    "title": "Zing (DishTV)",
     "logo": "https://i.ibb.co/D9Vk0yv/Zing.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8",
     "group": "Music",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Zoom (D2H)",
+    "title": "Zoom (DishTV)",
     "logo": "https://i.ibb.co/dkmg8JX/Zoom.png",
-    "playurl": "",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8",
     "group": "Music",
     "language": "Hindi",
     "ua": "",

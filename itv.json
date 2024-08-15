@@ -5,7 +5,8 @@
     "playurl": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/playlist.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Aaj Tak HD",
@@ -13,7 +14,8 @@
     "playurl": "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/playlist.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "India News",
@@ -21,7 +23,8 @@
     "playurl": "https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "India TV",
@@ -29,7 +32,8 @@
     "playurl": "https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/master.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "ABP News",
@@ -37,7 +41,8 @@
     "playurl": "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Zee News",
@@ -45,7 +50,8 @@
     "playurl": "https://stlive.pages.dev/zee-news.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Times Now Navbharat",
@@ -53,7 +59,8 @@
     "playurl": "https://dkgeklxbpq02u.cloudfront.net/master.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "NDTV 24x7",
@@ -61,7 +68,8 @@
     "playurl": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
     "group": "News",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "NDTV India",
@@ -69,7 +77,8 @@
     "playurl": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "NDTV Profit",
@@ -77,7 +86,8 @@
     "playurl": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8",
     "group": "News",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Republic Bharat",
@@ -85,7 +95,8 @@
     "playurl": "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Good News Today",
@@ -93,7 +104,8 @@
     "playurl": "https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "News 18 India",
@@ -101,7 +113,8 @@
     "playurl": "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "News 24",
@@ -109,7 +122,8 @@
     "playurl": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "1st India News",
@@ -117,7 +131,8 @@
     "playurl": "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "DD News HD",
@@ -125,7 +140,8 @@
     "playurl": "https://ytl.hmapps.workers.dev/@DDnews.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "CNBC Awaaz",
@@ -133,7 +149,8 @@
     "playurl": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Janta TV",
@@ -141,7 +158,8 @@
     "playurl": "https://284rnk9kr7xv-hls-live.wmncdn.net/jantatv/live.stream/playlist.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Bharat Samachar",
@@ -149,7 +167,8 @@
     "playurl": "https://yupp.hmapps.workers.dev/bharat-samachar.m3u8",
     "group": "News",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Discovery HD",
@@ -157,7 +176,8 @@
     "playurl": "https://stlive.pages.dev/discovery-hd.m3u8",
     "group": "Infotainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Discovery Science",
@@ -165,7 +185,8 @@
     "playurl": "https://stlive.pages.dev/discovery-science.m3u8",
     "group": "Infotainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "TLC HD",
@@ -173,7 +194,8 @@
     "playurl": "https://stlive.pages.dev/tlc-hd.m3u8",
     "group": "Infotainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Discovery Turbo",
@@ -181,7 +203,8 @@
     "playurl": "https://stlive.pages.dev/discovery-turbo.m3u8",
     "group": "Infotainment",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Animal Planet HD",
@@ -189,7 +212,8 @@
     "playurl": "https://stlive.pages.dev/animal-planet-hd.m3u8",
     "group": "Infotainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Investigation Discovery",
@@ -197,7 +221,8 @@
     "playurl": "https://stlive.pages.dev/investigation-discovery.m3u8",
     "group": "Infotainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Travel Channel",
@@ -205,7 +230,8 @@
     "playurl": "https://stlive.pages.dev/trvl.m3u8",
     "group": "Infotainment",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "HGTV",
@@ -213,7 +239,8 @@
     "playurl": "https://stlive.pages.dev/hgtv.m3u8",
     "group": "Infotainment",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Food Network",
@@ -221,7 +248,8 @@
     "playurl": "https://stlive.pages.dev/food-network.m3u8",
     "group": "Infotainment",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Discovery Kids",
@@ -229,7 +257,8 @@
     "playurl": "https://stlive.pages.dev/discovery-kids.m3u8",
     "group": "Kids",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Dangal",
@@ -237,7 +266,8 @@
     "playurl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Dangal 2",
@@ -245,7 +275,8 @@
     "playurl": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Bhojpuri Cinema (Bhojpuri)",
@@ -253,7 +284,8 @@
     "playurl": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
     "group": "Movies",
     "language": "Bhojpuri",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Epic",
@@ -261,7 +293,8 @@
     "playurl": "https://epiconvh.s.llnwi.net/epic/master.m3u8",
     "group": "Infotainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Ishara",
@@ -269,7 +302,8 @@
     "playurl": "https://epiconvh.s.llnwi.net/ishaara/master.m3u8",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Showbox",
@@ -277,7 +311,8 @@
     "playurl": "https://epiconvh.s.llnwi.net/showbox/master.m3u8",
     "group": "Music",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Gubbare",
@@ -285,7 +320,8 @@
     "playurl": "https://epiconvh.s.llnwi.net/gubbare/master.m3u8",
     "group": "Kids",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Nazara",
@@ -293,7 +329,8 @@
     "playurl": "https://epiconvh.s.llnwi.net/live/nazara/master.m3u8",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "DD India",
@@ -301,7 +338,8 @@
     "playurl": "https://yupp.hmapps.workers.dev/dd-india.m3u8",
     "group": "News",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Dabangg TV (Bhojpuri)",
@@ -309,7 +347,8 @@
     "playurl": "https://yupp.hmapps.workers.dev/dabangg.m3u8",
     "group": "Entertainment",
     "language": "Bhojpuri",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Bollywood Hungama",
@@ -317,7 +356,8 @@
     "playurl": "https://yupp.hmapps.workers.dev/bollywood-hungama.m3u8",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "NDTV Good Times",
@@ -325,15 +365,17 @@
     "playurl": "https://yupp.hmapps.workers.dev/ndtv-goodtimes.m3u8",
     "group": "Infotainment",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
-    "title": "9XM",
+    "title": "9XM (Yupp)",
     "logo": "https://i.postimg.cc/3xBVfKJY/9XM.png",
     "playurl": "https://yupp.hmapps.workers.dev/9xm.m3u8",
     "group": "Music",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony HD (SET HD)",
@@ -341,7 +383,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony SAB HD",
@@ -349,7 +392,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony Marathi",
@@ -357,7 +401,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "Marathi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony Pal",
@@ -365,7 +410,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony Yay",
@@ -373,7 +419,8 @@
     "playurl": "",
     "group": "Kids",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony MAX HD",
@@ -381,7 +428,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony MAX",
@@ -389,7 +437,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony WAH",
@@ -397,7 +446,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony MAX 2",
@@ -405,7 +455,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony PIX HD",
@@ -413,7 +464,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony BBC Earth HD",
@@ -421,7 +473,8 @@
     "playurl": "",
     "group": "Infotainment",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony Sports Ten 1",
@@ -429,7 +482,8 @@
     "playurl": "",
     "group": "Sports",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony Sports Ten 2",
@@ -437,7 +491,8 @@
     "playurl": "",
     "group": "Sports",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony Sports Ten 3",
@@ -445,7 +500,8 @@
     "playurl": "",
     "group": "Sports",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony Sports Ten 5",
@@ -453,7 +509,8 @@
     "playurl": "",
     "group": "Sports",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony Sports Ten 1 HD",
@@ -461,7 +518,8 @@
     "playurl": "",
     "group": "Sports",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony Sports Ten 2 HD",
@@ -469,7 +527,8 @@
     "playurl": "",
     "group": "Sports",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony Sports Ten 3 HD",
@@ -477,7 +536,8 @@
     "playurl": "",
     "group": "Sports",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sony Sports Ten 5 HD",
@@ -485,7 +545,8 @@
     "playurl": "",
     "group": "Sports",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Colors HD (Jio)",
@@ -493,7 +554,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Colors Cineplex HD (Jio)",
@@ -501,7 +563,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Comedy Central HD (Jio)",
@@ -509,7 +572,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "MTV Beats HD",
@@ -517,7 +581,8 @@
     "playurl": "",
     "group": "Music",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Nick HD Plus (Jio)",
@@ -525,7 +590,8 @@
     "playurl": "",
     "group": "Kids",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sonic Nickelodeon (Jio)",
@@ -533,7 +599,8 @@
     "playurl": "",
     "group": "Kids",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Nick Jr. (Jio)",
@@ -541,7 +608,8 @@
     "playurl": "",
     "group": "Kids",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Colors Rishtey (Jio)",
@@ -549,7 +617,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Colors Infinity HD (Jio)",
@@ -557,7 +626,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Colors Cineplex Bollywood (Jio)",
@@ -565,7 +635,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Colors Cineplex Superhits (Jio)",
@@ -573,7 +644,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "MTV HD Plus (Jio)",
@@ -581,7 +653,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "9XM (D2H)",
@@ -589,7 +662,8 @@
     "playurl": "",
     "group": "Music",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Mastiii (D2H)",
@@ -597,7 +671,8 @@
     "playurl": "",
     "group": "Music",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "& Pictures HD (And Pictures HD) (D2H)",
@@ -605,7 +680,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "& TV (And TV) (D2H)",
@@ -613,7 +689,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "& TV HD (And TV HD) (D2H)",
@@ -621,7 +698,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "DD National (D2H)",
@@ -629,7 +707,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Animal Planet HD World (D2H)",
@@ -637,7 +716,8 @@
     "playurl": "",
     "group": "Infotainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Discovery HD World (D2H)",
@@ -645,7 +725,8 @@
     "playurl": "",
     "group": "Infotainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Discovery Kids (D2H)",
@@ -653,7 +734,8 @@
     "playurl": "",
     "group": "Infotainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Discovery Science (D2H)",
@@ -661,7 +743,8 @@
     "playurl": "",
     "group": "Infotainment",
     "language": "",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "MTV Beats (D2H)",
@@ -669,7 +752,8 @@
     "playurl": "",
     "group": "Music",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Sangeet Bhojpuri (D2H)",
@@ -677,7 +761,8 @@
     "playurl": "",
     "group": "Music",
     "language": "Bhojpuri",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Dabangg (Bhojpuri) (D2H)",
@@ -685,7 +770,8 @@
     "playurl": "",
     "group": "Music",
     "language": "Bhojpuri",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Zee Action (D2H)",
@@ -693,7 +779,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Zee Anmol (D2H)",
@@ -701,7 +788,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Zee Anmol Cinema (D2H)",
@@ -709,7 +797,8 @@
     "playurl": ""
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Zee Bollywood (D2H)",
@@ -717,7 +806,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Zee Cinema (D2H)",
@@ -725,7 +815,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Zee Cinema HD (D2H)",
@@ -733,7 +824,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Zee TV HD (D2H)",
@@ -741,7 +833,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Zing (D2H)",
@@ -749,7 +842,8 @@
     "playurl": "",
     "group": "Music",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Zoom (D2H)",
@@ -757,7 +851,8 @@
     "playurl": "",
     "group": "Music",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Big Magic (Jio)",
@@ -765,7 +860,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Zee TV HD (Jio)",
@@ -773,7 +869,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "&TV HD (And TV HD) (Jio)",
@@ -781,7 +878,8 @@
     "playurl": "",
     "group": "Entertainment",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Zee Cafe HD (Jio)",
@@ -789,7 +887,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "English",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "& Pictures HD (Jio)",
@@ -797,7 +896,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Zee Zest HD (Jio)",
@@ -805,7 +905,8 @@
     "playurl": "",
     "group": "Lifestyle",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "Zee Cinema HD (Jio)",
@@ -813,7 +914,8 @@
     "playurl": "",
     "group": "Movies",
     "language": "Hindi",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "",
@@ -821,7 +923,8 @@
     "playurl": "",
     "group": "",
     "language": "",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "",
@@ -829,7 +932,8 @@
     "playurl": "",
     "group": "",
     "language": "",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "",
@@ -837,7 +941,8 @@
     "playurl": "",
     "group": "",
     "language": "",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "",
@@ -845,7 +950,8 @@
     "playurl": "",
     "group": "",
     "language": "",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "",
@@ -853,7 +959,8 @@
     "playurl": "",
     "group": "",
     "language": "",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "",
@@ -861,7 +968,8 @@
     "playurl": "",
     "group": "",
     "language": "",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "",
@@ -869,7 +977,8 @@
     "playurl": "",
     "group": "",
     "language": "",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
   },
   {
     "title": "",
@@ -877,6 +986,115 @@
     "playurl": "",
     "group": "",
     "language": "",
-    "ua": ""
+    "ua": "",
+    "ckdrm":""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": "",
+    "ckdrm":""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": "",
+    "ckdrm":""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": "",
+    "ckdrm":""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": "",
+    "ckdrm":""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": "",
+    "ckdrm":""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": "",
+    "ckdrm":""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": "",
+    "ckdrm":""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": "",
+    "ckdrm":""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": "",
+    "ckdrm":""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": "",
+    "ckdrm":""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": "",
+    "ckdrm":""
+  },
+  {
+    "title": "",
+    "logo": "",
+    "playurl": "",
+    "group": "",
+    "language": "",
+    "ua": "",
+    "ckdrm":""
   }
 ]

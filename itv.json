@@ -261,7 +261,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Dangal",
+    "title": "Dangal (DnG)",
     "logo": "https://i.postimg.cc/hj84zCTL/Dangal.png",
     "playurl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
     "group": "Entertainment",
@@ -270,7 +270,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Dangal 2",
+    "title": "Dangal 2 (DnG)",
     "logo": "https://i.postimg.cc/VLksvW6t/Dangal-2.png",
     "playurl": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
     "group": "Entertainment",
@@ -279,7 +279,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Bhojpuri Cinema (Bhojpuri)",
+    "title": "Bhojpuri Cinema (DnG)",
     "logo": "https://i.postimg.cc/sx8LVzxw/Bhojpuri-Cinema.png",
     "playurl": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
     "group": "Movies",
@@ -288,7 +288,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Epic",
+    "title": "Epic (Epicon)",
     "logo": "https://i.postimg.cc/YSYyGwcj/Epic.png",
     "playurl": "https://epiconvh.s.llnwi.net/epic/master.m3u8",
     "group": "Infotainment",
@@ -297,7 +297,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Ishara",
+    "title": "Ishara (Epicon)",
     "logo": "https://i.postimg.cc/5NMNKDMJ/Ishara.png",
     "playurl": "https://epiconvh.s.llnwi.net/ishaara/master.m3u8",
     "group": "Entertainment",
@@ -306,7 +306,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Showbox",
+    "title": "Showbox (Epicon)",
     "logo": "https://i.postimg.cc/1zyFxfh9/ShowBox.png",
     "playurl": "https://epiconvh.s.llnwi.net/showbox/master.m3u8",
     "group": "Music",
@@ -315,7 +315,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Gubbare",
+    "title": "Gubbare (Epicon)",
     "logo": "https://i.postimg.cc/XqX2Ws5k/Gubbare.png",
     "playurl": "https://epiconvh.s.llnwi.net/gubbare/master.m3u8",
     "group": "Kids",
@@ -324,7 +324,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Nazara",
+    "title": "Nazara (Epicon)",
     "logo": "https://i.postimg.cc/jdMM20cQ/Nazara.png",
     "playurl": "https://epiconvh.s.llnwi.net/live/nazara/master.m3u8",
     "group": "Entertainment",
@@ -333,7 +333,7 @@
     "ckdrm": ""
   },
   {
-    "title": "DD India",
+    "title": "DD India (Yupp)",
     "logo": "https://i.postimg.cc/QdqWK74h/DD-India.png",
     "playurl": "https://yupp.hmapps.workers.dev/dd-india.m3u8",
     "group": "News",
@@ -342,7 +342,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Dabangg TV (Bhojpuri)",
+    "title": "Dabangg TV Bhojpuri (Yupp)",
     "logo": "https://i.postimg.cc/QCD6m13S/Dabangg-TV.png",
     "playurl": "https://yupp.hmapps.workers.dev/dabangg.m3u8",
     "group": "Entertainment",
@@ -351,7 +351,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Bollywood Hungama",
+    "title": "Bollywood Hungama (Yupp)",
     "logo": "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Bollywood-Hungama_TV_black.png",
     "playurl": "https://yupp.hmapps.workers.dev/bollywood-hungama.m3u8",
     "group": "Entertainment",
@@ -360,7 +360,7 @@
     "ckdrm": ""
   },
   {
-    "title": "NDTV Good Times",
+    "title": "NDTV Good Times (Yupp)",
     "logo": "https://i.postimg.cc/YSdRY02L/NDTV-Good-Times.png",
     "playurl": "https://yupp.hmapps.workers.dev/ndtv-goodtimes.m3u8",
     "group": "Infotainment",

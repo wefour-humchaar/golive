@@ -641,7 +641,7 @@
   {
     "title": "Colors Cineplex Superhits (JioCinema)",
     "logo": "https://i.postimg.cc/7PzKVLv8/Colors-Cineplex-Superhits.png",
-    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=",
+    "playurl": "https://jc.hmapps.workers.dev/jc/stream.m3u8?id=3479683",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
@@ -846,69 +846,6 @@
     "ckdrm": ""
   },
   {
-    "title": "Big Magic (Jio)",
-    "logo": "https://i.postimg.cc/TPgMY5wD/Big-Magic.png",
-    "playurl": "",
-    "group": "Entertainment",
-    "language": "Hindi",
-    "ua": "",
-    "ckdrm": ""
-  },
-  {
-    "title": "Zee TV HD (Jio)",
-    "logo": "https://i.postimg.cc/gkqt293N/Zee-TV-HD.png",
-    "playurl": "",
-    "group": "Entertainment",
-    "language": "Hindi",
-    "ua": "",
-    "ckdrm": ""
-  },
-  {
-    "title": "&TV HD (And TV HD) (Jio)",
-    "logo": "https://i.postimg.cc/NGpVYvYY/tvHD.png",
-    "playurl": "",
-    "group": "Entertainment",
-    "language": "Hindi",
-    "ua": "",
-    "ckdrm": ""
-  },
-  {
-    "title": "Zee Cafe HD (Jio)",
-    "logo": "https://i.postimg.cc/1zv7pbBs/Zee-Cafe-HD.png",
-    "playurl": "",
-    "group": "Movies",
-    "language": "English",
-    "ua": "",
-    "ckdrm": ""
-  },
-  {
-    "title": "& Pictures HD (Jio)",
-    "logo": "https://i.postimg.cc/fLCKMt2w/pictures-HD.png",
-    "playurl": "",
-    "group": "Movies",
-    "language": "Hindi",
-    "ua": "",
-    "ckdrm": ""
-  },
-  {
-    "title": "Zee Zest HD (Jio)",
-    "logo": "https://i.postimg.cc/tC5PMZSk/Zee-Zest-HD.png",
-    "playurl": "",
-    "group": "Lifestyle",
-    "language": "Hindi",
-    "ua": "",
-    "ckdrm": ""
-  },
-  {
-    "title": "Zee Cinema HD (Jio)",
-    "logo": "https://i.postimg.cc/8cfKbdBZ/Zee-Cinema-HD.png",
-    "playurl": "",
-    "group": "Movies",
-    "language": "Hindi",
-    "ua": "",
-    "ckdrm": ""
-  },
-  {
     "title": "Sansad TV HD (DishTV)",
     "logo": "https://i.postimg.cc/xTCJJmdr/sansanegs1500552022021507261520220215073719.jpg",
     "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvhd/default/sansadtvhd.m3u8",
@@ -918,11 +855,101 @@
     "ckdrm": ""
   },
   {
-    "title": "",
-    "logo": "",
+    "title": "Big Magic (Zee5)",
+    "logo": "https://i.postimg.cc/TPgMY5wD/Big-Magic.png",
+    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-bigmagic_1786965389",
+    "group": "Entertainment",
+    "language": "Hindi",
+    "ua": "",
+    "ckdrm": ""
+  },
+  {
+    "title": "Zee TV HD (Zee5)",
+    "logo": "https://i.postimg.cc/gkqt293N/Zee-TV-HD.png",
+    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-zeetvhd",
+    "group": "Entertainment",
+    "language": "Hindi",
+    "ua": "",
+    "ckdrm": ""
+  },
+  {
+    "title": "&TV HD (And TV HD) (Zee5)",
+    "logo": "https://i.postimg.cc/NGpVYvYY/tvHD.png",
+    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-tvhd_0",
+    "group": "Entertainment",
+    "language": "Hindi",
+    "ua": "",
+    "ckdrm": ""
+  },
+  {
+    "title": "Zee Cafe HD (Zee5)",
+    "logo": "https://i.postimg.cc/1zv7pbBs/Zee-Cafe-HD.png",
+    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-zeecafehd",
+    "group": "Movies",
+    "language": "English",
+    "ua": "",
+    "ckdrm": ""
+  },
+  {
+    "title": "& Pictures HD (Zee5)",
+    "logo": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-tvpictureshd",
     "playurl": "",
-    "group": "",
-    "language": "",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": "",
+    "ckdrm": ""
+  },
+  {
+    "title": "Zee Zest HD (Zee5)",
+    "logo": "https://i.postimg.cc/tC5PMZSk/Zee-Zest-HD.png",
+    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-348",
+    "group": "Lifestyle",
+    "language": "Hindi",
+    "ua": "",
+    "ckdrm": ""
+  },
+  {
+    "title": "Zee Cinema HD (Zee5)",
+    "logo": "https://i.postimg.cc/8cfKbdBZ/Zee-Cinema-HD.png",
+    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-zeecinemahd",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": "",
+    "ckdrm": ""
+  },
+  {
+    "title": "&Flix HD (And Flix HD) (Zee5)",
+    "logo": "https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/1170x658379547401.png",
+    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-channel_2105335046",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": "",
+    "ckdrm": ""
+  },
+  {
+    "title": "&xplor HD (And Xplor HD) (Zee5)",
+    "logo": "https://akamaividz.zee5.com/resources/0-9-209/list/270x152/1170x658withlogo358457080.png",
+    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-209",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": "",
+    "ckdrm": ""
+  },
+  {
+    "title": "&prive HD (And Prive HD) (Zee5)",
+    "logo": "https://akamaividz.zee5.com/resources/0-9-9z5543514/list/270x152/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png",
+    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-9z5543514",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": "",
+    "ckdrm": ""
+  },
+  {
+    "title": "Zee Biskope Bhojpuri (Zee5)",
+    "logo": "https://akamaividz.zee5.com/resources/0-9-216/list/270x152/1170x658withlogo20909261.png",
+    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-216",
+    "group": "Movies",
+    "language": "Bhojpuri",
     "ua": "",
     "ckdrm": ""
   },

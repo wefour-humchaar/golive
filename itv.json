@@ -857,7 +857,7 @@
   {
     "title": "Big Magic (Zee5)",
     "logo": "https://i.postimg.cc/TPgMY5wD/Big-Magic.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-bigmagic_1786965389",
+    "playurl": "https://jc.hmapps.workers.dev/z/stream.m3u8?id=0-9-bigmagic_1786965389",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": "",
@@ -866,7 +866,7 @@
   {
     "title": "Zee TV HD (Zee5)",
     "logo": "https://i.postimg.cc/gkqt293N/Zee-TV-HD.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-zeetvhd",
+    "playurl": "https://jc.hmapps.workers.dev/z/stream.m3u8?id=0-9-zeetvhd",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": "",
@@ -875,7 +875,7 @@
   {
     "title": "&TV HD (And TV HD) (Zee5)",
     "logo": "https://i.postimg.cc/NGpVYvYY/tvHD.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-tvhd_0",
+    "playurl": "https://jc.hmapps.workers.dev/z/stream.m3u8?id=0-9-tvhd_0",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": "",
@@ -884,7 +884,7 @@
   {
     "title": "Zee Cafe HD (Zee5)",
     "logo": "https://i.postimg.cc/1zv7pbBs/Zee-Cafe-HD.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-zeecafehd",
+    "playurl": "https://jc.hmapps.workers.dev/z/stream.m3u8?id=0-9-zeecafehd",
     "group": "Movies",
     "language": "English",
     "ua": "",
@@ -892,8 +892,8 @@
   },
   {
     "title": "& Pictures HD (Zee5)",
-    "logo": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-tvpictureshd",
-    "playurl": "",
+    "logo": "https://akamaividz.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/list/1170x658withlog1476130363.jpg",
+    "playurl": "https://jc.hmapps.workers.dev/stream.m3u8?id=0-9-tvpictureshd",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
@@ -902,7 +902,7 @@
   {
     "title": "Zee Zest HD (Zee5)",
     "logo": "https://i.postimg.cc/tC5PMZSk/Zee-Zest-HD.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-348",
+    "playurl": "https://jc.hmapps.workers.dev/z/stream.m3u8?id=0-9-348",
     "group": "Lifestyle",
     "language": "Hindi",
     "ua": "",
@@ -911,7 +911,7 @@
   {
     "title": "Zee Cinema HD (Zee5)",
     "logo": "https://i.postimg.cc/8cfKbdBZ/Zee-Cinema-HD.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-zeecinemahd",
+    "playurl": "https://jc.hmapps.workers.dev/z/stream.m3u8?id=0-9-zeecinemahd",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
@@ -920,7 +920,7 @@
   {
     "title": "&Flix HD (And Flix HD) (Zee5)",
     "logo": "https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/1170x658379547401.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-channel_2105335046",
+    "playurl": "https://jc.hmapps.workers.dev/z/stream.m3u8?id=0-9-channel_2105335046",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
@@ -929,7 +929,7 @@
   {
     "title": "&xplor HD (And Xplor HD) (Zee5)",
     "logo": "https://akamaividz.zee5.com/resources/0-9-209/list/270x152/1170x658withlogo358457080.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-209",
+    "playurl": "https://jc.hmapps.workers.dev/z/stream.m3u8?id=0-9-209",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
@@ -938,7 +938,7 @@
   {
     "title": "&prive HD (And Prive HD) (Zee5)",
     "logo": "https://akamaividz.zee5.com/resources/0-9-9z5543514/list/270x152/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-9z5543514",
+    "playurl": "https://jc.hmapps.workers.dev/z/stream.m3u8?id=0-9-9z5543514",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
@@ -947,7 +947,7 @@
   {
     "title": "Zee Biskope Bhojpuri (Zee5)",
     "logo": "https://akamaividz.zee5.com/resources/0-9-216/list/270x152/1170x658withlogo20909261.png",
-    "playurl": "https://cdn.sepvs.org/assets/js/z/stream.m3u8?id=0-9-216",
+    "playurl": "https://jc.hmapps.workers.dev/z/stream.m3u8?id=0-9-216",
     "group": "Movies",
     "language": "Bhojpuri",
     "ua": "",

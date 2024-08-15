@@ -549,109 +549,127 @@
     "ckdrm": ""
   },
   {
-    "title": "Colors HD (Jio)",
+    "title": "Colors HD (JioCinema)",
     "logo": "https://i.postimg.cc/KcL31ySD/Colors-HD.png",
-    "playurl": "",
+    "playurl": "https://amplify.peopleweb.site/pvt/jc/stream.m3u8?id=3694429",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Colors Cineplex HD (Jio)",
+    "title": "Colors Cineplex HD (JioCinema)",
     "logo": "https://i.postimg.cc/vmz3F6XD/Colors-Cineplex-HD.png",
-    "playurl": "",
+    "playurl": "https://amplify.peopleweb.site/pvt/jc/stream.m3u8?id=",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Comedy Central HD (Jio)",
+    "title": "Comedy Central HD (JioCinema)",
     "logo": "https://i.postimg.cc/sft8J7LR/Comedy-Central-HD.png",
-    "playurl": "",
+    "playurl": "https://amplify.peopleweb.site/pvt/jc/stream.m3u8?id=",
     "group": "Entertainment",
     "language": "English",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "MTV Beats HD",
+    "title": "MTV Beats HD (JioCinema)",
     "logo": "https://i.postimg.cc/x8rRLy1x/MTV-Beats-HD.png",
-    "playurl": "",
+    "playurl": "https://amplify.peopleweb.site/pvt/jc/stream.m3u8?id=",
     "group": "Music",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Nick HD Plus (Jio)",
+    "title": "Nick HD Plus (JioCinema)",
     "logo": "https://i.postimg.cc/FHfYQtZS/Nick-HD.png",
-    "playurl": "",
+    "playurl": "https://amplify.peopleweb.site/pvt/jc/stream.m3u8?id=",
     "group": "Kids",
     "language": "English",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Sonic Nickelodeon (Jio)",
+    "title": "Sonic Nickelodeon (JioCinema)",
     "logo": "https://i.postimg.cc/cJzyyjFv/Sonic-Nickelodeon.png",
-    "playurl": "",
+    "playurl": "https://amplify.peopleweb.site/pvt/jc/stream.m3u8?id=",
     "group": "Kids",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Nick Jr. (Jio)",
+    "title": "Nick Jr. (JioCinema)",
     "logo": "https://i.postimg.cc/ZqfN1DW0/Nick-Jr.png",
-    "playurl": "",
+    "playurl": "https://amplify.peopleweb.site/pvt/jc/stream.m3u8?id=",
     "group": "Kids",
     "language": "English",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Colors Rishtey (Jio)",
+    "title": "Colors Rishtey (JioCinema)",
     "logo": "https://i.postimg.cc/1X2f8JRX/Colors-Rishtey.png",
-    "playurl": "",
+    "playurl": "https://amplify.peopleweb.site/pvt/jc/stream.m3u8?id=",
     "group": "Entertainment",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Colors Infinity HD (Jio)",
+    "title": "Colors Infinity HD (JioCinema)",
     "logo": "https://i.postimg.cc/JnbLNxQt/Colors-Infinity-HD.png",
-    "playurl": "",
+    "playurl": "https://amplify.peopleweb.site/pvt/jc/stream.m3u8?id=",
     "group": "Entertainment",
     "language": "English",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Colors Cineplex Bollywood (Jio)",
+    "title": "Colors Cineplex Bollywood (JioCinema)",
     "logo": "https://i.postimg.cc/d0xrFmLB/Colors-Cineplex-Bollywood.png",
-    "playurl": "",
+    "playurl": "https://amplify.peopleweb.site/pvt/jc/stream.m3u8?id=",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "Colors Cineplex Superhits (Jio)",
+    "title": "Colors Cineplex Superhits (JioCinema)",
     "logo": "https://i.postimg.cc/7PzKVLv8/Colors-Cineplex-Superhits.png",
-    "playurl": "",
+    "playurl": "https://amplify.peopleweb.site/pvt/jc/stream.m3u8?id=",
     "group": "Movies",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },
   {
-    "title": "MTV HD Plus (Jio)",
+    "title": "MTV HD Plus (JioCinema)",
     "logo": "https://i.postimg.cc/054snqcc/MTV-HD-Plus.png",
-    "playurl": "",
+    "playurl": "https://amplify.peopleweb.site/pvt/jc/stream.m3u8?id=",
     "group": "Entertainment",
+    "language": "Hindi",
+    "ua": "",
+    "ckdrm": ""
+  },
+  {
+    "title": "Sports18 1 HD (JioCinema)",
+    "logo": "https://i.postimg.cc/k407Kg0X/Sports18.png",
+    "playurl": "https://amplify.peopleweb.site/pvt/jc/stream.m3u8?id=",
+    "group": "Sports",
+    "language": "English",
+    "ua": "",
+    "ckdrm": ""
+  },
+  {
+    "title": "Sports18 Khel (JioCinema)",
+    "logo": "https://i.postimg.cc/k407Kg0X/Sports18.png",
+    "playurl": "https://amplify.peopleweb.site/pvt/jc/stream.m3u8?id=",
+    "group": "Sports",
     "language": "Hindi",
     "ua": "",
     "ckdrm": ""

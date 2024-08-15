@@ -981,7 +981,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Shemaroo Bollywood (Shemaroo)",
+    "title": "Shemaroo Bollywood (DistroTV)",
     "logo": "https://i.postimg.cc/kXT9hqtW/Bdcf46991a900868.jpg",
     "playurl": "https://d14c63magvk61v.cloudfront.net/strm/channels/shemaroo_bollywood/master.m3u8",
     "group": "Entertainment",
@@ -990,7 +990,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Shemaroo Filmigaane (Shemaroo)",
+    "title": "Shemaroo Filmigaane (DistroTV)",
     "logo": "https://i.postimg.cc/wBCsyhqx/image.jpg",
     "playurl": "https://d14c63magvk61v.cloudfront.net/strm/channels/shemaroo_filmigaane/master.m3u8",
     "group": "Music",
@@ -999,7 +999,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Shemaroo Umang Plus (Shemaroo)",
+    "title": "Shemaroo Umang Plus (DistroTV)",
     "logo": "https://i.postimg.cc/FzWSKw18/Shemaroo-Umang.png",
     "playurl": "https://d14c63magvk61v.cloudfront.net/strm/channels/shemaroo_umang_plus/master.m3u8",
     "group": "Entertainment",
@@ -1008,7 +1008,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Food Food (Shemaroo)",
+    "title": "Food Food (DistroTV)",
     "logo": "https://i.postimg.cc/SQ1jJByQ/image.jpg",
     "playurl": "https://distrotv-foodfood.planetcast.in/HQpDN7/master.m3u8",
     "group": "Infotainment",
@@ -1017,7 +1017,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Nature Stream TV (Shemaroo)",
+    "title": "Nature Stream TV (DistroTV)",
     "logo": "https://i.postimg.cc/J4WJrwKy/0002592-icon512x512.jpg",
     "playurl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8",
     "group": "Infotainment",
@@ -1026,7 +1026,7 @@
     "ckdrm": ""
   },
   {
-    "title": "Gusto TV (Shemaroo)",
+    "title": "Gusto TV (DistroTV)",
     "logo": "https://i.postimg.cc/gknJbgbw/gustotv-logo-516.jpg",
     "playurl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8",
     "group": "Infotainment",
@@ -1035,7 +1035,7 @@
     "ckdrm": ""
   },
   {
-    "title": "4K Travel TV (Shemaroo)",
+    "title": "4K Travel TV (DistroTV)",
     "logo": "https://i.postimg.cc/02BC9X6h/logo-20231219-183416-68.png",
     "playurl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8",
     "group": "Infotainment",

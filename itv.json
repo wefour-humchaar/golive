@@ -693,6 +693,15 @@
     "ckdrm": ""
   },
   {
+    "title": "Music India (DishTV)",
+    "logo": "https://i.postimg.cc/qqH09Hy0/image.jpg",
+    "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8",
+    "group": "Music",
+    "language": "Hindi",
+    "ua": "",
+    "ckdrm": ""
+  },
+  {
     "title": "& Pictures HD (And Pictures HD) (DishTV)",
     "logo": "https://i.ibb.co/ZK3yF3C/pictures-HD.png",
     "playurl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8",

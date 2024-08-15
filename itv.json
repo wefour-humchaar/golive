@@ -954,11 +954,29 @@
     "ckdrm": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "playurl": "",
-    "group": "",
-    "language": "",
+    "title": "Zee Anmol (Zee5)",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmol/list/1170x658withlog1844143347.jpg",
+    "playurl": "https://jc.hmapps.workers.dev/z/stream.m3u8?id=0-9-zeeanmol",
+    "group": "Entertainment",
+    "language": "Hindi",
+    "ua": "",
+    "ckdrm": ""
+  },
+  {
+    "title": "Zee Anmol Cinema (Zee5)",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmolcinema/list/1170x658withlog1721007595.jpg",
+    "playurl": "https://jc.hmapps.workers.dev/z/stream.m3u8?id=0-9-zeeanmolcinema",
+    "group": "Movies",
+    "language": "Hindi",
+    "ua": "",
+    "ckdrm": ""
+  },
+  {
+    "title": "Zee Anmol Cinema 2 (Zee5)",
+    "logo": "https://i.postimg.cc/DymWfjFk/sUM7AT9t.png",
+    "playurl": "https://jc.hmapps.workers.dev/z/stream.m3u8?id=0-9-bigganga",
+    "group": "Movies",
+    "language": "Hindi",
     "ua": "",
     "ckdrm": ""
   },

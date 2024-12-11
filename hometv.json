@@ -187,6 +187,17 @@
     "useragent": ""
   },
   {
+    "title": "News 24 Madhya Pradesh Chhattisgarh",
+    "logo": "https://mytv-images.hmapps.workers.dev/pdtvHsmn/NEWS-24-MPCG.png",
+    "genre": "News",
+    "language": "Hindi",
+    "tv_source": "News24_Official_Site",
+    "streamurl": "https://vidcdn.vidgyor.com/news24mpcg-origin/liveabr/playlist.m3u8",
+    "origin": "",
+    "referer": "",
+    "useragent": ""
+  },
+  {
     "title": "CNBC Awaaz",
     "logo": "https://mytv-images.hmapps.workers.dev/q7LzxY3F/CNBC-Awaaz.png",
     "genre": "News",

@@ -66,12 +66,12 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
+    "title": "Zee Bihar Jharkhand",
+    "logo": "https://mytv-images.hmapps.workers.dev/rsgXCTj1/Zee-Purvaiya.png",
+    "genre": "News",
+    "language": "Hindi",
+    "tv_source": "ZeeNews_Official_Site",
+    "streamurl": "https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8",
     "origin": "",
     "referer": "",
     "useragent": ""

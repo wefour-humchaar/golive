@@ -77,12 +77,12 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
+    "title": "Zee Delhi NCR Haryana",
+    "logo": "https://i.postimg.cc/nr3g9kVT/Zee-Kalinga.png",
+    "genre": "News",
+    "language": "Hindi",
+    "tv_source": "ZeeNews_Official_Site",
+    "streamurl": "https://d2s40ae9uabrl.cloudfront.net/index_4.m3u8",
     "origin": "",
     "referer": "",
     "useragent": ""

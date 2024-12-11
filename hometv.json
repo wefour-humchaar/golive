@@ -308,12 +308,12 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
+    "title": "Sansad TV",
+    "logo": "https://i.postimg.cc/253KgvwB/Sansad-TV.jpg",
+    "genre": "News",
+    "language": "Hindi",
+    "tv_source": "YouTube",
+    "streamurl": "https://ytl.hmapps.workers.dev/sansadtv.m3u8",
     "origin": "",
     "referer": "",
     "useragent": ""

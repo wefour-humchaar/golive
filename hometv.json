@@ -737,15 +737,15 @@
     "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
+    "title": "Zee TV HD (Zee5)",
+    "logo": "https://mytv-images.hmapps.workers.dev/gkqt293N/Zee-TV-HD.png",
+    "genre": "Entertainment",
+    "language": "Hindi",
+    "tv_source": "Zee",
+    "streamurl": "https://ze.hmapps.workers.dev/zeetvhd.m3u8",
     "origin": "",
     "referer": "",
-    "useragent": ""
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
     "title": "",

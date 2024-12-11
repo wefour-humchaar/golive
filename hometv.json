@@ -742,7 +742,7 @@
     "genre": "Entertainment",
     "language": "Hindi",
     "tv_source": "Zee",
-    "streamurl": "https://ze.hmapps.workers.dev/zeetvhd.m3u8",
+    "streamurl": "https://ze.hmapps.workers.dev/v1.m3u8?id=0-9-zeetvhd",
     "origin": "https://www.zee5.com",
     "referer": "https://www.zee5.com/",
     "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"

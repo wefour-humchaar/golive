@@ -754,9 +754,9 @@
     "language": "Hindi",
     "tv_source": "Zee",
     "streamurl": "https://ze.hmapps.workers.dev/v1.m3u8?id=0-9-bigmagic_1786965389",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
+    "origin": "https://www.zee5.com",
+    "referer": "https://www.zee5.com/",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
     "title": "&TV HD (And TV HD) (Zee5)",
@@ -765,9 +765,9 @@
     "language": "Hindi",
     "tv_source": "Zee",
     "streamurl": "https://ze.hmapps.workers.dev/v1.m3u8?id=0-9-tvhd_0",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
+    "origin": "https://www.zee5.com",
+    "referer": "https://www.zee5.com/",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
     "title": "Zee Cafe HD (Zee5)",
@@ -776,9 +776,9 @@
     "language": "English",
     "tv_source": "Zee",
     "streamurl": "https://ze.hmapps.workers.dev/v1.m3u8?id=0-9-zeecafehd",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
+    "origin": "https://www.zee5.com",
+    "referer": "https://www.zee5.com/",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
     "title": "& Pictures HD (And Pictures HD) (Zee5)",
@@ -787,9 +787,9 @@
     "language": "Hindi",
     "tv_source": "Zee",
     "streamurl": "https://ze.hmapps.workers.dev/v1.m3u8?id=0-9-tvpictureshd",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
+    "origin": "https://www.zee5.com",
+    "referer": "https://www.zee5.com/",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
     "title": "Zee Zest HD (Zee5)",
@@ -798,9 +798,9 @@
     "language": "Hindi",
     "tv_source": "Zee",
     "streamurl": "https://ze.hmapps.workers.dev/v1.m3u8?id=0-9-348",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
+    "origin": "https://www.zee5.com",
+    "referer": "https://www.zee5.com/",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
     "title": "Zee Cinema HD (Zee5)",
@@ -809,108 +809,86 @@
     "language": "Hindi",
     "tv_source": "Zee",
     "streamurl": "https://ze.hmapps.workers.dev/v1.m3u8?id=0-9-zeecinemahd",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
+    "origin": "https://www.zee5.com",
+    "referer": "https://www.zee5.com/",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
     "title": "&Flix HD (And Flix HD) (Zee5)",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
+    "logo": "https://mytv-images.hmapps.workers.dev/Rhfb0J2/andflix.jpg",
+    "genre": "Movies",
+    "language": "English",
+    "tv_source": "Zee",
+    "streamurl": "https://ze.hmapps.workers.dev/v1.m3u8?id=0-9-channel_2105335046",
+    "origin": "https://www.zee5.com",
+    "referer": "https://www.zee5.com/",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
+    "title": "&xplor HD (And Xplor HD) (Zee5)",
+    "logo": "https://mytv-images.hmapps.workers.dev/PqVmNX7g/1170x658withlogo358457080.png",
+    "genre": "Movies",
+    "language": "Hindi",
+    "tv_source": "Zee",
+    "streamurl": "https://ze.hmapps.workers.dev/v1.m3u8?id=0-9-209",
+    "origin": "https://www.zee5.com",
+    "referer": "https://www.zee5.com/",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
+    "title": "&prive HD (And Prive HD) (Zee5)",
+    "logo": "https://mytv-images.hmapps.workers.dev/xd8mrrdt/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png",
+    "genre": "Movies",
+    "language": "Hindi",
+    "tv_source": "Zee",
+    "streamurl": "https://ze.hmapps.workers.dev/v1.m3u8?id=0-9-9z5543514",
+    "origin": "https://www.zee5.com",
+    "referer": "https://www.zee5.com/",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
+    "title": "Zee Biskope Bhojpuri (Zee5)",
+    "logo": "https://mytv-images.hmapps.workers.dev/PfQ5M3Xx/1170x658withlogo20909261.png",
+    "genre": "Movies",
+    "language": "Bhojpuri",
+    "tv_source": "Zee",
+    "streamurl": "https://ze.hmapps.workers.dev/v1.m3u8?id=0-9-216",
+    "origin": "https://www.zee5.com",
+    "referer": "https://www.zee5.com/",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
+    "title": "Zee Anmol (Zee5)",
+    "logo": "https://mytv-images.hmapps.workers.dev/3RwnbbMT/Zee-Anmol-logo.png",
+    "genre": "Entertainment",
+    "language": "Hindi",
+    "tv_source": "Zee",
+    "streamurl": "https://ze.hmapps.workers.dev/v1.m3u8?id=0-9-zeeanmol",
+    "origin": "https://www.zee5.com",
+    "referer": "https://www.zee5.com/",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
+    "title": "Zee Anmol Cinema (Zee5)",
+    "logo": "https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmolcinema/list/1170x658withlog1721007595.jpg",
+    "genre": "Movies",
+    "language": "Hindi",
+    "tv_source": "Zee",
+    "streamurl": "https://ze.hmapps.workers.dev/v1.m3u8?id=0-9-zeeanmolcinema",
+    "origin": "https://www.zee5.com",
+    "referer": "https://www.zee5.com/",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
-  },
-  {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
-  },
-  {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
+    "title": "Zee Anmol Cinema 2 (Zee5)",
+    "logo": "https://mytv-images.hmapps.workers.dev/DymWfjFk/sUM7AT9t.png",
+    "genre": "Movies",
+    "language": "Hindi",
+    "tv_source": "Zee",
+    "streamurl": "https://ze.hmapps.workers.dev/v1.m3u8?id=0-9-bigganga",
+    "origin": "https://www.zee5.com",
+    "referer": "https://www.zee5.com/",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
     "title": "",

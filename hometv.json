@@ -594,26 +594,26 @@
     "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
+    "title": "MTV Beats HD (JC)",
+    "logo": "https://mytv-images.hmapps.workers.dev/x8rRLy1x/MTV-Beats-HD.png",
+    "genre": "Music",
+    "language": "Hindi",
+    "tv_source": "JC",
+    "streamurl": "https://jc.hmapps.workers.dev/bpk-tv/JC_MTVBeatsHD/JCHLS/index.m3u8",
     "origin": "",
     "referer": "",
-    "useragent": ""
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
+    "title": "Colors Rishtey (JC)",
+    "logo": "https://mytv-images.hmapps.workers.dev/1X2f8JRX/Colors-Rishtey.png",
+    "genre": "Entertainment",
+    "language": "Hindi",
+    "tv_source": "JC",
+    "streamurl": "https://jc.hmapps.workers.dev/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8",
     "origin": "",
     "referer": "",
-    "useragent": ""
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   },
   {
     "title": "",

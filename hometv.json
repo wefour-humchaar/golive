@@ -242,6 +242,17 @@
     "useragent": ""
   },
   {
+    "title": "DD India",
+    "logo": "https://mytv-images.hmapps.workers.dev/zGqm2V6n/New-logo-of-DD-India.jpg",
+    "genre": "News",
+    "language": "English",
+    "tv_source": "YouTube",
+    "streamurl": "https://ytl.hmapps.workers.dev/@DDIndia.m3u8",
+    "origin": "",
+    "referer": "",
+    "useragent": ""
+  },
+  {
     "title": "Bharat Samachar",
     "logo": "https://mytv-images.hmapps.workers.dev/PrtqyhHQ/Bharat-Samachar.png",
     "genre": "News",

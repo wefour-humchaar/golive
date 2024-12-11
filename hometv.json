@@ -121,12 +121,12 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "tv_source": "",
-    "streamurl": "",
+    "title": "ABP News",
+    "logo": "https://mytv-images.hmapps.workers.dev/50xs5CRr/ABP-News-India.png",
+    "genre": "News",
+    "language": "Hindi",
+    "tv_source": "ABP_Official_Site",
+    "streamurl": "https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8",
     "origin": "",
     "referer": "",
     "useragent": ""

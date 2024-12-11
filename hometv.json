@@ -264,6 +264,28 @@
     "useragent": ""
   },
   {
+    "title": "Sansad TV",
+    "logo": "https://i.postimg.cc/253KgvwB/Sansad-TV.jpg",
+    "genre": "News",
+    "language": "Hindi",
+    "tv_source": "YouTube",
+    "streamurl": "https://ytl.hmapps.workers.dev/sansadtv.m3u8",
+    "origin": "",
+    "referer": "",
+    "useragent": ""
+  },
+  {
+    "title": "ANI News",
+    "logo": "https://mytv-images.hmapps.workers.dev/ZY6MkJrj/Anilogo-400x400.jpg",
+    "genre": "News",
+    "language": "Hindi",
+    "tv_source": "YouTube",
+    "streamurl": "https://ytl.hmapps.workers.dev/@ANINewsIndia.m3u8",
+    "origin": "",
+    "referer": "",
+    "useragent": ""
+  },
+  {
     "title": "Dangal (DnG)",
     "logo": "https://mytv-images.hmapps.workers.dev/hj84zCTL/Dangal.png",
     "genre": "Entertainment",
@@ -303,28 +325,6 @@
     "language": "Hindi",
     "tv_source": "YouTube",
     "streamurl": "https://ytl.hmapps.workers.dev/@DDKisan.m3u8",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
-  },
-  {
-    "title": "Sansad TV",
-    "logo": "https://i.postimg.cc/253KgvwB/Sansad-TV.jpg",
-    "genre": "News",
-    "language": "Hindi",
-    "tv_source": "YouTube",
-    "streamurl": "https://ytl.hmapps.workers.dev/sansadtv.m3u8",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
-  },
-  {
-    "title": "ANI News",
-    "logo": "https://mytv-images.hmapps.workers.dev/ZY6MkJrj/Anilogo-400x400.jpg",
-    "genre": "News",
-    "language": "Hindi",
-    "tv_source": "YouTube",
-    "streamurl": "https://ytl.hmapps.workers.dev/@ANINewsIndia.m3u8",
     "origin": "",
     "referer": "",
     "useragent": ""

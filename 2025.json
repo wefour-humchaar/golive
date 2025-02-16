@@ -376,7 +376,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
     "genre": "Movies",
     "language": "Bhojpuri",
-    "stream_url": "https://avisha.aifyapps.in/wp-content/uploads/secure/indio/live.php?id=ihU0hW&format=.m3u8",
+    "stream_url": "https://cdn-avisha.hmapps.workers.dev/indio/live.m3u8?id=ihU0hW",
     "drm_type": "",
     "drm": "",
     "origin": "",

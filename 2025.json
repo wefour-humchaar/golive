@@ -168,11 +168,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "Zee Bharat",
+    "logo": "https://english.cdn.zeenews.com/static/apprun/livetv/zee-hinduatan.svg",
+    "genre": "News",
+    "language": "Hindi",
+    "stream_url": "https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

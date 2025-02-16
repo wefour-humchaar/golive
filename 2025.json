@@ -180,11 +180,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "News Nation",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation.png",
+    "genre": "News",
+    "language": "Hindi",
+    "stream_url": "https://d14c63magvk61v.cloudfront.net/strm/channels/newsnation/master.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -192,11 +192,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "TV9 Bharatvarsh",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png",
+    "genre": "News",
+    "language": "Hindi",
+    "stream_url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

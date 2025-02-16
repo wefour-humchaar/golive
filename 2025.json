@@ -146,7 +146,7 @@
   {
     "title": "NDTV India",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png",
-   "genre": "News",
+    "genre": "News",
     "language": "Hindi",
     "stream_url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
     "drm_type": "",
@@ -156,11 +156,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "ET Now Swadesh",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ET_Now_Swadesh.png",
+    "genre": "News",
+    "language": "Hindi",
+    "stream_url": "https://d1oywageqdjcvn.cloudfront.net/master.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

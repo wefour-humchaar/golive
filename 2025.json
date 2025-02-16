@@ -120,11 +120,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "India News",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_news.png",
+    "genre": "News",
+    "language": "Hindi",
+    "stream_url": "https://indianews.ottlive.co.in/indianewsnational/indianewsnational/index.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

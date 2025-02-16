@@ -48,11 +48,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "India Today",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png",
+    "genre": "News",
+    "language": "English",
+    "stream_url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

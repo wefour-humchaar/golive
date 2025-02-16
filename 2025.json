@@ -1,10 +1,10 @@
 [
   {
-    "title": "",
+    "title": "Aaj Tak HD",
     "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "genre": "News",
+    "language": "Hindi",
+    "stream_url": "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/playlist.m3u8",
     "drm_type": "",
     "drm": ""
   },

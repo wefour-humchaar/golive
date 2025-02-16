@@ -204,11 +204,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "ABP Ganga",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png",
+    "genre": "News",
+    "language": "Hindi",
+    "stream_url": "https://dkshlpp7ugzua.cloudfront.net/hls/live/2042874/ganga/master.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

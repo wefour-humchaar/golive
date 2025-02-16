@@ -372,23 +372,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
-    "drm_type": "",
-    "drm": "",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
-  },
-  {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "B4U Bhojpuri (Jio)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",
+    "genre": "Movies",
+    "language": "Bhojpuri",
+    "stream_url": "https://avisha.aifyapps.in/wp-content/uploads/secure/indio/live.php?id=ihU0hW&format=.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

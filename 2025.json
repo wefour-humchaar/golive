@@ -1056,11 +1056,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "Sony TV HD (SET HD)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",
+    "genre": "Entertainment",
+    "language": "Hindi",
+    "stream_url": "https://cdn-avisha.hmapps.workers.dev/son/playlist.m3u8?id=sony_hd",
     "drm_type": "",
     "drm": "",
     "origin": "",

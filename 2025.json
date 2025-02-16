@@ -84,11 +84,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "News18 India",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/IBN_7.png",
+    "genre": "News",
+    "language": "Hindi",
+    "stream_url": "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -96,11 +96,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "Zee News",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",
+    "genre": "News",
+    "language": "Hindi",
+    "stream_url": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

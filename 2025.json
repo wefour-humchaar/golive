@@ -336,11 +336,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "DD Sports 2.0 (PiShow)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png",
+    "genre": "Sports",
+    "language": "Hindi",
+    "stream_url": "https://cdn-4.pishow.tv/live/1293/master.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -348,11 +348,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "DD Kisan (PiShow)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png",
+    "genre": "Infotainment",
+    "language": "Hindi",
+    "stream_url": "https://cdn-6.pishow.tv/live/9/master.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

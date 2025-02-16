@@ -264,11 +264,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "B4U Movies (PiShow)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Movies.png",
+    "genre": "Movies",
+    "language": "Hindi",
+    "stream_url": "https://cdn-2.pishow.tv/live/419/master.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -276,11 +276,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "Music India (PiShow)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png",
+    "genre": "Music",
+    "language": "Hindi",
+    "stream_url": "https://cdn-2.pishow.tv/live/226/master.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

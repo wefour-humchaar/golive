@@ -360,11 +360,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "Shubhsandesh TV (PiShow)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png",
+    "genre": "Devotional",
+    "language": "Hindi",
+    "stream_url": "https://cdn-2.pishow.tv/live/457/master.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

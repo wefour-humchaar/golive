@@ -60,11 +60,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "ABP News",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_News_India.png",
+    "genre": "News",
+    "language": "Hindi",
+    "stream_url": "https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -72,11 +72,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "India TV",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_TV.png",
+    "genre": "News",
+    "language": "Hindi",
+    "stream_url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

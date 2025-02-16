@@ -1,10 +1,22 @@
 [
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "Aaj Tak",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",
+    "genre": "News",
+    "language": "Hindi",
+    "stream_url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/playlist.m3u8",
+    "drm_type": "",
+    "drm": "",
+    "origin": "",
+    "referer": "",
+    "useragent": ""
+  },
+  {
+    "title": "Aaj Tak HD",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",
+    "genre": "News",
+    "language": "Hindi",
+    "stream_url": "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/playlist.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

@@ -36,11 +36,11 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "Good News Today",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tez.png",
+    "genre": "News",
+    "language": "Hindi",
+    "stream_url": "https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

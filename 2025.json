@@ -120,18 +120,6 @@
     "useragent": ""
   },
   {
-    "title": "India News",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_news.png",
-    "genre": "News",
-    "language": "Hindi",
-    "stream_url": "https://indianews.ottlive.co.in/indianewsnational/indianewsnational/index.m3u8",
-    "drm_type": "",
-    "drm": "",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
-  },
-  {
     "title": "Republic Bharat",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Republic_Bharat.png",
     "genre": "News",
@@ -317,30 +305,6 @@
     "genre": "Movies",
     "language": "Bhojpuri",
     "stream_url": "https://cdn-4.pishow.tv/live/233/master.m3u8",
-    "drm_type": "",
-    "drm": "",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
-  },
-  {
-    "title": "Sangeet Bhojpuri (PiShow)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png",
-    "genre": "Music",
-    "language": "Bhojpuri",
-    "stream_url": "https://cdn-4.pishow.tv/live/1293/master.m3u8",
-    "drm_type": "",
-    "drm": "",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
-  },
-  {
-    "title": "DD Sports 2.0 (PiShow)",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png",
-    "genre": "Sports",
-    "language": "Hindi",
-    "stream_url": "https://cdn-4.pishow.tv/live/1293/master.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -557,18 +521,6 @@
     "genre": "Travel & Lifestyle",
     "language": "English",
     "stream_url": "https://yupp.hmapps.workers.dev/ndtv-goodtimes.m3u8",
-    "drm_type": "",
-    "drm": "",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
-  },
-  {
-    "title": "4K Travel TV (Yupp)",
-    "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ootail.png",
-    "genre": "Travel & Lifestyle",
-    "language": "English",
-    "stream_url": "https://yupp.hmapps.workers.dev/4k-travel-tv.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

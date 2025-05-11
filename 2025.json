@@ -636,11 +636,23 @@
     "useragent": ""
   },
   {
-    "title": "",
-    "logo": "",
-    "genre": "",
-    "language": "",
-    "stream_url": "",
+    "title": "Star Sports 2 Hindi HD (JioX)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png",
+    "genre": "Sports",
+    "language": "Hindi",
+    "stream_url": "https://cdn-avisha.hmapps.workers.dev/jhtstr/watch.php?id=1984&vtoken=&format=.m3u8",
+    "drm_type": "",
+    "drm": "",
+    "origin": "",
+    "referer": "",
+    "useragent": ""
+  },
+  {
+    "title": "Colors HD (JioX)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png",
+    "genre": "Entertainment",
+    "language": "Hindi",
+    "stream_url": "https://cdn-avisha.hmapps.workers.dev/jhtstr/watch.php?id=144&vtoken=&format=.m3u8",
     "drm_type": "",
     "drm": "",
     "origin": "",

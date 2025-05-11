@@ -660,6 +660,18 @@
     "useragent": ""
   },
   {
+    "title": "Color Cineplex HD (JioX)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",
+    "genre": "Movies",
+    "language": "Hindi",
+    "stream_url": "https://cdn-avisha.hmapps.workers.dev/jhtstr/watch.php?id=1309&vtoken=&format=.m3u8",
+    "drm_type": "",
+    "drm": "",
+    "origin": "",
+    "referer": "",
+    "useragent": ""
+  },
+  {
     "title": "",
     "logo": "",
     "genre": "",

@@ -24,18 +24,6 @@
     "useragent": ""
   },
   {
-    "title": "Aaj Tak 2",
-    "logo": "https://akm-img-a-in.tosshub.com/aajtak/resources/at2logo_97x552x.png",
-    "genre": "News",
-    "language": "Hindi",
-    "stream_url": "https://feeds.intoday.in/aajtak/api/at2/master.m3u8",
-    "drm_type": "",
-    "drm": "",
-    "origin": "",
-    "referer": "",
-    "useragent": ""
-  },
-  {
     "title": "Good News Today",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tez.png",
     "genre": "News",

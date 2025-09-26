@@ -516,11 +516,11 @@
     "useragent": ""
   },
   {
-    "title": "Sony TV HD (SET HD) (DishTV)",
+    "title": "Sony TV HD (SET HD)",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",
     "genre": "Entertainment",
     "language": "Hindi",
-    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/home/stream.m3u8?id=sony-hd",
+    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/1991/stream.m3u8?id=sony-hd",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -528,11 +528,11 @@
     "useragent": ""
   },
   {
-    "title": "Sony SAB HD (DishTV)",
+    "title": "Sony SAB HD",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
     "genre": "Entertainment",
     "language": "Hindi",
-    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/home/stream.m3u8?id=sony-sab-hd",
+    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/1991/stream.m3u8?id=sony-sab-hd",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -540,11 +540,11 @@
     "useragent": ""
   },
   {
-    "title": "Sony Pal (DishTV)",
+    "title": "Sony Pal",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
     "genre": "Entertainment",
     "language": "Hindi",
-    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/home/stream.m3u8?id=sony-pal",
+    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/1991/stream.m3u8?id=sony-pal",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -552,11 +552,11 @@
     "useragent": ""
   },
   {
-    "title": "Sony Yay (DishTV)",
+    "title": "Sony Yay",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
     "genre": "Kids",
     "language": "Hindi",
-    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/home/stream.m3u8?id=sony-yay",
+    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/1991/stream.m3u8?id=sony-yay",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -564,11 +564,11 @@
     "useragent": ""
   },
   {
-    "title": "Sony Max HD (DishTV)",
+    "title": "Sony Max HD",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
     "genre": "Movies",
     "language": "Hindi",
-    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/home/stream.m3u8?id=sony-max-hd",
+    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/1991/stream.m3u8?id=sony-max-hd",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -576,11 +576,11 @@
     "useragent": ""
   },
   {
-    "title": "Sony Max 2 (DishTV)",
+    "title": "Sony Max 2",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png",
     "genre": "Movies",
     "language": "Hindi",
-    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/home/stream.m3u8?id=sony-max-2",
+    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/1991/stream.m3u8?id=sony-max-2",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -588,11 +588,11 @@
     "useragent": ""
   },
   {
-    "title": "Sony PIX HD English (DishTV)",
+    "title": "Sony PIX HD",
     "logo": "https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png",
     "genre": "Movies",
     "language": "English",
-    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/home/stream.m3u8?id=sony-pix-hd",
+    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/1991/stream.m3u8?id=sony-pix-hd",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -600,11 +600,11 @@
     "useragent": ""
   },
   {
-    "title": "Sony BBC Earth HD English (DishTV)",
+    "title": "Sony BBC Earth HD",
     "logo": "https://yt3.googleusercontent.com/VDmgycWu3V624DFUT77sgEZtgj7HM6E7SNiPCXpP-J6TPXf6hF45zSeEAv9-InybuM2RQ-YHXw=s500-c-k-c0x00ffffff-no-rj",
     "genre": "Infotainment",
     "language": "English",
-    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/home/stream.m3u8?id=sony-bbc-earth-hd",
+    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/1991/stream.m3u8?id=sony-bbc-earth-hd",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -612,11 +612,11 @@
     "useragent": ""
   },
   {
-    "title": "Sony Sports Ten 1 HD (DishTV)",
+    "title": "Sony Sports Ten 1 HD",
     "logo": "https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png",
     "genre": "Sports",
     "language": "English",
-    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/home/stream.m3u8?id=sony-ten-1-hd",
+    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/1991/stream.m3u8?id=sony-ten-1-hd",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -624,11 +624,11 @@
     "useragent": ""
   },
   {
-    "title": "Sony Sports Ten 2 HD (DishTV)",
+    "title": "Sony Sports Ten 2 HD",
     "logo": "https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png",
     "genre": "Sports",
     "language": "English",
-    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/home/stream.m3u8?id=sony-ten-2-hd",
+    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/1991/stream.m3u8?id=sony-ten-2-hd",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -636,11 +636,11 @@
     "useragent": ""
   },
   {
-    "title": "Sony Sports Ten 3 HD (DishTV)",
+    "title": "Sony Sports Ten 3 HD",
     "logo": "https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png",
     "genre": "Sports",
     "language": "Hindi",
-    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/home/stream.m3u8?id=sony-ten-3-hd",
+    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/1991/stream.m3u8?id=sony-ten-3-hd",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -648,11 +648,11 @@
     "useragent": ""
   },
   {
-    "title": "Sony Sports Ten 5 HD (DishTV)",
+    "title": "Sony Sports Ten 5 HD",
     "logo": "https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png",
     "genre": "Sports",
     "language": "English",
-    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/home/stream.m3u8?id=sony-ten-5-hd",
+    "stream_url": "https://anya.wowcdn.space/wp-content/uploads/1991/stream.m3u8?id=sony-ten-5-hd",
     "drm_type": "",
     "drm": "",
     "origin": "",
@@ -660,7 +660,7 @@
     "useragent": ""
   },
   {
-    "title": "History TV18 HD Hindi (Jio)",
+    "title": "History TV18 HD Hindi",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Hindi.png",
     "genre": "Infotainment",
     "language": "Hindi",
